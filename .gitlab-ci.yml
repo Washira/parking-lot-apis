@@ -1,0 +1,30 @@
+image: node:12
+
+stages:
+    - copy
+    # - deploy
+    # - test
+
+prepare:
+    stage: copy
+    tags:
+        - staging
+    # only: ['master']
+    variables:
+        MODULE_NAME: 'custom-rama-backend'
+    script:
+        - echo "--- Creating Deployable File on STAGING Server ---"
+        - hostname
+        - pwd
+        - ls -la
+        - sed -i 's/10.0.4.121/192.168.102.113/g' .env.development
+        - sed -i 's/10.0.4.121/192.168.102.113/g' .env.production
+        - date > version-$MODULE_NAME
+        - echo $CI_PIPELINE_ID >> version-$MODULE_NAME
+        - echo $CI_COMMIT_SHA >> version-$MODULE_NAME
+        - cat version-$MODULE_NAME
+        - tar -cvf $MODULE_NAME.tar . --exclude=.git --exclude=.gitlab-ci.yml
+        - echo "--- Copying to Deploy Folder ---"
+        - mkdir -p /home/user01/Cream_Deployment
+        - cp -av $MODULE_NAME.tar /home/user01/Cream_Deployment
+        - echo "*** done copy ***"

@@ -1,0 +1,1125 @@
+id,name,parent,detail,group.category.id,group.category.name,group.family.id,group.family.name,group.chemical.id,group.chemical.name,isActive,order,level
+10000,Products,//,,,,,,,,1,0,1
+10001,Medical Drugs,//Products,,01,Medical Drugs,,,,,1,0,2
+10002,Technical and Occupational Products,//Products,,02,Technical and Occupational Products,,,,,1,0,2
+10003,Recreational and Abused Agents,//Products,,03,Recreational and Abused Agents,,,,,1,0,2
+10004,Plant Toxins / Poisonous Plants,//Products,,04,Plant Toxins / Poisonous Plants,,,,,1,0,2
+10005,Poisonous and Venomous Animals,//Products,,05,Poisonous and Venomous Animals,,,,,1,0,2
+10006,Food Toxins and Contaminations,//Products,,06,Food Toxins and Contaminations,,,,,1,0,2
+10007,Household Products,//Products,,07,Household Products,,,,,1,0,2
+10008,Pesticides,//Products,,08,Pesticides,,,,,1,0,2
+10009,Disease / Signs-Symptoms / Health,//Products,,09,Disease / Signs-Symptoms / Health,,,,,1,0,2
+10010,Lab Monitoring,//Products,,10,Lab Monitoring,,,,,1,0,2
+10011,Database / Service,//Products,,11,Database / Service,,,,,1,0,2
+10012,Health Food / Cosmetics,//Products,,12,Health Food / Cosmetics,,,,,1,0,2
+10013,Fire Hazard,//Products,,13,Fire Hazard,,,,,1,0,2
+10014,Food Additives and Preservatives,//Products,,14,Food Additives and Preservatives,,,,,1,0,2
+10015,Herbal and Traditional Medicine,//Products,,15,Herbal and Traditional Medicine,,,,,1,0,2
+10016,Chemical Weapons,//Products,,16,Chemical Weapons,,,,,1,0,2
+10017,Methemoglobinemia,//Products,,17,Methemoglobinemia,,,,,1,0,2
+10018,Unknown Toxic Substance,//Products,,18,Unknown Toxic Substance,,,,,1,0,2
+10019,Other Category,//Products,,19,Other Category,,,,,1,0,2
+11085,N/A,//Products,,99,N/A,99,N/A,9999,,0,0,2
+10020,Alimentary System,//Products//Medical Drugs,gastrointestinal and hepatobiliary system,01,Medical Drugs,01,Alimentary System,,,1,0,3
+10021,Cardiovascular and Hematopoietic System,//Products//Medical Drugs,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,,,1,0,3
+10022,Respiratory System,//Products//Medical Drugs,,01,Medical Drugs,03,Respiratory System,,,1,0,3
+10023,Neuro-Muscular System,//Products//Medical Drugs,,01,Medical Drugs,04,Neuro-Muscular System,,,1,0,3
+10024,Hormones,//Products//Medical Drugs,,01,Medical Drugs,05,Hormones,,,1,0,3
+10025,Contraceptive agents,//Products//Medical Drugs,,01,Medical Drugs,06,Contraceptive agents,,,1,0,3
+10026,Antibiotics,//Products//Medical Drugs,,01,Medical Drugs,07,Antibiotics,,,1,0,3
+10027,Other Chemotherapeutics,//Products//Medical Drugs,,01,Medical Drugs,08,Other Chemotherapeutics,,,1,0,3
+10028,Genito-Urinary System,//Products//Medical Drugs,,01,Medical Drugs,09,Genito-Urinary System,,,1,0,3
+10029,Metabolism,//Products//Medical Drugs,,01,Medical Drugs,10,Metabolism,,,1,0,3
+10030,Vitamins and Minerals,//Products//Medical Drugs,,01,Medical Drugs,11,Vitamins and Minerals,,,1,0,3
+10031,Nutrition,//Products//Medical Drugs,,01,Medical Drugs,12,Nutrition,,,1,0,3
+10032,"Eye, Ear, Mouth and Throat",//Products//Medical Drugs,,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",,,1,0,3
+10033,Dermatologicals,//Products//Medical Drugs,,01,Medical Drugs,14,Dermatologicals,,,1,0,3
+10034,Anaesthetics Local and General,//Products//Medical Drugs,,01,Medical Drugs,15,Anaesthetics Local and General,,,1,0,3
+10035,Diagnostic Agents,//Products//Medical Drugs,,01,Medical Drugs,16,Diagnostic Agents,,,1,0,3
+10036,Allergy and Immune System,//Products//Medical Drugs,,01,Medical Drugs,17,Allergy and Immune System,,,1,0,3
+10037,"Antidotes, Detoxifying Agents",//Products//Medical Drugs,,01,Medical Drugs,18,"Antidotes, Detoxifying Agents",,,1,0,3
+10038,Intravenous and Other Steriles Solutions,//Products//Medical Drugs,,01,Medical Drugs,19,Intravenous and Other Steriles Solutions,,,1,0,3
+10039,Miscellaneous,//Products//Medical Drugs,,01,Medical Drugs,20,Miscellaneous,,,1,0,3
+10040,Unknown,//Products//Medical Drugs,,01,Medical Drugs,21,Unknown,,,1,0,3
+10041,Others,//Products//Medical Drugs,,01,Medical Drugs,22,Others,,,1,0,3
+10042,Adhesive agent,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,01,Adhesive agent,,,1,0,3
+10043,Astringent,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,02,Astringent,,,1,0,3
+10044,Automotive products,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,03,Automotive products,,,1,0,3
+10045,Battery dry cell,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,04,Battery dry cell,,,1,0,3
+10046,Bleaching agent,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,05,Bleaching agent,,,1,0,3
+10047,Caulking compound,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,06,Caulking compound,,,1,0,3
+10048,Cleaning agent for air conditioner,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,07,Cleaning agent for air conditioner,,,1,0,3
+10049,Cleaning agent for floor,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,08,Cleaning agent for floor,,,1,0,3
+10050,Cleaning agent for Multipurpose,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,,,1,0,3
+10051,Concrete:  Curing membrane,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,10,Concrete:  Curing membrane,,,1,0,3
+10052,Antiseptic&Disinfectants,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,,,1,0,3
+10053,Dispersant,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,12,Dispersant,,,1,0,3
+10054,Dye,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,13,Dye,,,1,0,3
+10055,Fire extinguisher,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,14,Fire extinguisher,,,1,0,3
+10056,Fuel,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,15,Fuel,,,1,0,3
+10057,Gilt solution (ชุบทอง),//Products//Technical and Occupational Products,,02,Technical and Occupational Products,16,Gilt solution (ชุบทอง),,,1,0,3
+10058,Glass etching,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,17,Glass etching,,,1,0,3
+10059,Hardener:Photographic,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,18,Hardener:Photographic,,,1,0,3
+10060,Heavy metal,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,19,Heavy metal,,,1,0,3
+10061,Ink,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,20,Ink,,,1,0,3
+10062,Jewery cleaner,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,21,Jewery cleaner,,,1,0,3
+10063,Lubricant oil (Exclude automotive),//Products//Technical and Occupational Products,,02,Technical and Occupational Products,22,Lubricant oil (Exclude automotive),,,1,0,3
+10064,Paint,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,23,Paint,,,1,0,3
+10065,Refrigerants,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,24,Refrigerants,,,1,0,3
+10066,Ripen gas,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,25,Ripen gas,,,1,0,3
+10067,Rust Preventive,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,26,Rust Preventive,,,1,0,3
+10068,Rust Remover,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,27,Rust Remover,,,1,0,3
+10069,Silver/Gold polishing agents/ Metal cleaner,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,28,Silver/Gold polishing agents/ Metal cleaner,,,1,0,3
+10070,Solvent & thinner,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,29,Solvent & thinner,,,1,0,3
+10071,Storage battery fluid,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,30,Storage battery fluid,,,1,0,3
+10072,Technical & Industrial chemicals,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,,,1,0,3
+10073,Toxic gas,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,32,Toxic gas,,,1,0,3
+10074,Other groups,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,33,Other groups,,,1,0,3
+10075,Unknown chemicals,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,34,Unknown chemicals,,,1,0,3
+10076,Cleaning agent for elevator (Lift),//Products//Technical and Occupational Products,,02,Technical and Occupational Products,35,Cleaning agent for elevator (Lift),,,1,0,3
+10077,Ink: Solvent,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,36,Ink: Solvent,,,1,0,3
+10078,Concrete: Waterproof Coating,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,37,Concrete: Waterproof Coating,,,1,0,3
+11099,Cleaning agent for leather,//Products//Technical and Occupational Products,,02,Technical and Occupational Products,38,Cleaning agent for leather,,,1,0,3
+10079,Amphetamine and derivatives,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,01,Amphetamine and derivatives,,,1,0,3
+10080,Opiods,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,02,Opiods,,,1,0,3
+10081,Psychoactive drugs,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,03,Psychoactive drugs,,,1,0,3
+10082,Cocaine,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,04,Cocaine,,,1,0,3
+10083,Aphrodisiac: spanish fly,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,05,Aphrodisiac: spanish fly,,,1,0,3
+10084,Beverages,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,06,Beverages,,,1,0,3
+10085,Inhalation of abuse,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,07,Inhalation of abuse,,,1,0,3
+10086,Others,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,08,Others,,,1,0,3
+10087,Unknown,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,09,Unknown,,,1,0,3
+10088,Cigarette,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,10,Cigarette,,,1,0,3
+10089,Cigarette: Others,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,11,Cigarette: Others,,,1,0,3
+10090,GHB and related agents,//Products//Recreational and Abused Agents,,03,Recreational and Abused Agents,12,GHB and related agents,,,1,0,3
+10091,Plant,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,01,Plant,,,1,0,3
+10092,Mushroom: Cyclopeptides,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,02,Mushroom: Cyclopeptides,,,1,0,3
+10093,Mushroom: Muscarine,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,03,Mushroom: Muscarine,,,1,0,3
+10094,Mushroom: Muscimol,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,04,Mushroom: Muscimol,,,1,0,3
+10095,Mushroom: Psilocybin,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,05,Mushroom: Psilocybin,,,1,0,3
+10096,Mushroom: GI toxin,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,06,Mushroom: GI toxin,,,1,0,3
+10097,Mushroom:Unknown,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,07,Mushroom:Unknown,,,1,0,3
+10098,Mushroom: Gyromitra,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,08,Mushroom: Gyromitra,,,1,0,3
+10099,Mushroom: Rhabdomyolysis,//Products//Plant Toxins / Poisonous Plants,,04,Plant Toxins / Poisonous Plants,09,Mushroom: Rhabdomyolysis,,,1,0,3
+10100,Poisonous Snake: Neurotoxin,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,01,Poisonous Snake: Neurotoxin,,,1,0,3
+10101,Poisonous Snake: Hematotoxin,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,02,Poisonous Snake: Hematotoxin,,,1,0,3
+10102,Poisonous Snake: Myotoxin,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,03,Poisonous Snake: Myotoxin,,,1,0,3
+10103,Poisonous Snake: Unknown,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,04,Poisonous Snake: Unknown,,,1,0,3
+10104,Poisonous Insect: Hymenoptera,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,05,Poisonous Insect: Hymenoptera,,,1,0,3
+10105,Poisonous Insect: Others,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,06,Poisonous Insect: Others,,,1,0,3
+10106,Poisonous Insect: Unknown,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,07,Poisonous Insect: Unknown,,,1,0,3
+10107,Tetrodotoxin,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,08,Tetrodotoxin,,,1,0,3
+10108,Aquatic envenomation: Coelenterate,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,09,Aquatic envenomation: Coelenterate,,,1,0,3
+10109,Aquatic envenomation: Fish stings,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,10,Aquatic envenomation: Fish stings,,,1,0,3
+10110,Aquatic envenomation: Sea Urchin & Cone snails,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,11,Aquatic envenomation: Sea Urchin & Cone snails,,,1,0,3
+10111,Others,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,12,Others,,,1,0,3
+10112,Unknown,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,13,Unknown,,,1,0,3
+10113,Poisonous Snake: Back-fanged,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,14,Poisonous Snake: Back-fanged,,,1,0,3
+10114,Cardiac glycoside,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,15,Cardiac glycoside,,,1,0,3
+10115,Poisonous animal: Unknown,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,16,Poisonous animal: Unknown,,,1,0,3
+10116,Non poisonous animal,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,17,Non poisonous animal,,,1,0,3
+10117,Poisonous insect: spider,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,18,Poisonous insect: spider,,,1,0,3
+10118,Aquatic envenomation: Echinoderms,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,19,Aquatic envenomation: Echinoderms,,,1,0,3
+11098,Paralytic shellfish poisoning (PSP),//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,20,Paralytic shellfish poisoning (PSP),,,1,0,3
+11103,Scombroid Fish Poisoning,//Products//Poisonous and Venomous Animals,จาก aminoacid histidine,05,Poisonous and Venomous Animals,21,Scombroid Fish Poisoning,,,1,0,3
+11106,Venomous primate,//Products//Poisonous and Venomous Animals,,05,Poisonous and Venomous Animals,22,Venomous primate,,,1,0,3
+10119,Toxicants in Foods,//Products//Food Toxins and Contaminations,,06,Food Toxins and Contaminations,01,Toxicants in Foods,,,1,0,3
+10120,Food poisoning,//Products//Food Toxins and Contaminations,,06,Food Toxins and Contaminations,02,Food poisoning,,,1,0,3
+10121,Unknown,//Products//Food Toxins and Contaminations,,06,Food Toxins and Contaminations,03,Unknown,,,1,0,3
+10122,Others,//Products//Food Toxins and Contaminations,,06,Food Toxins and Contaminations,04,Others,,,1,0,3
+10123,Insecticide contamination,//Products//Food Toxins and Contaminations,,06,Food Toxins and Contaminations,05,Insecticide contamination,,,1,0,3
+10124,Herbicide contamination,//Products//Food Toxins and Contaminations,,06,Food Toxins and Contaminations,06,Herbicide contamination,,,1,0,3
+10125,Adhesive agent,//Products//Household Products,,07,Household Products,01,Adhesive agent,,,1,0,3
+10126,Air refresher,//Products//Household Products,,07,Household Products,02,Air refresher,,,1,0,3
+10127,Cleaning agent : dishwashing (manual),//Products//Household Products,,07,Household Products,03,Cleaning agent : dishwashing (manual),,,1,0,3
+10128,Cleaning agent for calces remover,//Products//Household Products,,07,Household Products,04,Cleaning agent for calces remover,,,1,0,3
+10129,Cleaning agent for vegetable,//Products//Household Products,,07,Household Products,05,Cleaning agent for vegetable,,,1,0,3
+10130,Cleaning agent for contact lens,//Products//Household Products,,07,Household Products,06,Cleaning agent for contact lens,,,1,0,3
+10131,Cleaning agent for floor,//Products//Household Products,,07,Household Products,07,Cleaning agent for floor,,,1,0,3
+10132,Polishing/ Coating agent: floor,//Products//Household Products,,07,Household Products,08,Polishing/ Coating agent: floor,,,1,0,3
+10133,Cleaning agent for glass,//Products//Household Products,,07,Household Products,09,Cleaning agent for glass,,,1,0,3
+10134,Cleaning agent for laundry,//Products//Household Products,,07,Household Products,10,Cleaning agent for laundry,,,1,0,3
+10135,Cleaning agent for bottle or milk bottle,//Products//Household Products,,07,Household Products,11,Cleaning agent for bottle or milk bottle,,,1,0,3
+10136,Cleaning agent for swimming pool,//Products//Household Products,,07,Household Products,12,Cleaning agent for swimming pool,,,1,0,3
+10137,Cleaning agent for tape recorder,//Products//Household Products,,07,Household Products,13,Cleaning agent for tape recorder,,,1,0,3
+10138,Cleaning agent for toilet,//Products//Household Products,,07,Household Products,14,Cleaning agent for toilet,,,1,0,3
+10139,Cleaning agent multipurpose cleaner,//Products//Household Products,,07,Household Products,15,Cleaning agent multipurpose cleaner,,,1,0,3
+10140,Cold pack content,//Products//Household Products,,07,Household Products,16,Cold pack content,,,1,0,3
+10141,Antiseptic and Disinfectant for household purpose,//Products//Household Products,,07,Household Products,17,Antiseptic and Disinfectant for household purpose,,,1,0,3
+10142,Polishing agent: leather,//Products//Household Products,,07,Household Products,18,Polishing agent: leather,,,1,0,3
+10143,Moisture absorbent,//Products//Household Products,,07,Household Products,19,Moisture absorbent,,,1,0,3
+10144,Polishing agent: silver,//Products//Household Products,,07,Household Products,20,Polishing agent: silver,,,1,0,3
+10145,Polishing agent: multipurpose,//Products//Household Products,,07,Household Products,21,Polishing agent: multipurpose,,,1,0,3
+10146,Repellent/ Deodorant,//Products//Household Products,,07,Household Products,22,Repellent/ Deodorant,,,1,0,3
+10147,Rust Preventive agent,//Products//Household Products,,07,Household Products,23,Rust Preventive agent,,,1,0,3
+10148,Rust Remover,//Products//Household Products,,07,Household Products,24,Rust Remover,,,1,0,3
+10149,Thermometer content,//Products//Household Products,,07,Household Products,25,Thermometer content,,,1,0,3
+10150,Toilet article & cosmetic: hair care products,//Products//Household Products,,07,Household Products,26,Toilet article & cosmetic: hair care products,,,1,0,3
+10151,Toilet article & cosmetic: mouth care,//Products//Household Products,,07,Household Products,27,Toilet article & cosmetic: mouth care,,,1,0,3
+10152,Toilet article & cosmetic: nail,//Products//Household Products,,07,Household Products,28,Toilet article & cosmetic: nail,,,1,0,3
+10153,Toilet article & cosmetic: body,//Products//Household Products,,07,Household Products,29,Toilet article & cosmetic: body,,,1,0,3
+10154,Toy & sport accessories,//Products//Household Products,,07,Household Products,30,Toy & sport accessories,,,1,0,3
+10155,Unplug drain,//Products//Household Products,,07,Household Products,31,Unplug drain,,,1,0,3
+10156,Stationary: ink and color,//Products//Household Products,,07,Household Products,32,Stationary: ink and color,,,1,0,3
+10157,Miscelleneous,//Products//Household Products,,07,Household Products,33,Miscelleneous,,,1,0,3
+10158,Unknown,//Products//Household Products,,07,Household Products,34,Unknown,,,1,0,3
+10159,Nontoxic substances,//Products//Household Products,,07,Household Products,35,Nontoxic substances,,,1,0,3
+10160,Toilet article & cosmetic: face and neck,//Products//Household Products,,07,Household Products,36,Toilet article & cosmetic: face and neck,,,1,0,3
+10161,Stationary: Others,//Products//Household Products,,07,Household Products,37,Stationary: Others,,,1,0,3
+10162,Toilet article & cosmetic: Perfume and Cologne,//Products//Household Products,,07,Household Products,38,Toilet article & cosmetic: Perfume and Cologne,,,1,0,3
+10163,Cleaning agent for kitchen,//Products//Household Products,,07,Household Products,39,Cleaning agent for kitchen,,,1,0,3
+10164,Battery,//Products//Household Products,,07,Household Products,40,Battery,,,1,0,3
+10165,Aromatherapy,//Products//Household Products,,07,Household Products,41,Aromatherapy,,,1,0,3
+10166,Hot pack content,//Products//Household Products,,07,Household Products,42,Hot pack content,,,1,0,3
+10167,Insecticide,//Products//Pesticides,,08,Pesticides,01,Insecticide,,,1,0,3
+10168,Miticide,//Products//Pesticides,,08,Pesticides,02,Miticide,,,1,0,3
+10169,Mollussicide,//Products//Pesticides,,08,Pesticides,03,Mollussicide,,,1,0,3
+10170,Fungicide,//Products//Pesticides,,08,Pesticides,04,Fungicide,,,1,0,3
+10171,Herbicide,//Products//Pesticides,,08,Pesticides,05,Herbicide,,,1,0,3
+10172,Plant Growth Regulator,//Products//Pesticides,,08,Pesticides,06,Plant Growth Regulator,,,1,0,3
+10173,Synergist,//Products//Pesticides,,08,Pesticides,07,Synergist,,,1,0,3
+10174,Rodenticide,//Products//Pesticides,,08,Pesticides,08,Rodenticide,,,1,0,3
+10175,Nematicide,//Products//Pesticides,,08,Pesticides,09,Nematicide,,,1,0,3
+10176,Poison Dogs,//Products//Pesticides,,08,Pesticides,10,Poison Dogs,,,1,0,3
+10177,Poison Birds,//Products//Pesticides,,08,Pesticides,11,Poison Birds,,,1,0,3
+10178,Fumigants,//Products//Pesticides,,08,Pesticides,12,Fumigants,,,1,0,3
+10179,Unknown,//Products//Pesticides,,08,Pesticides,13,Unknown,,,1,0,3
+10180,Others,//Products//Pesticides,,08,Pesticides,14,Others,,,1,0,3
+10181,Acaricide,//Products//Pesticides,,08,Pesticides,15,Acaricide,,,1,0,3
+10182,Algicide,//Products//Pesticides,,08,Pesticides,16,Algicide,,,1,0,3
+10183,Poison fish,//Products//Pesticides,,08,Pesticides,17,Poison fish,,,1,0,3
+10184,Diseases,//Products//Disease / Signs-Symptoms / Health,,09,Disease / Signs-Symptoms / Health,01,Diseases,,,1,0,3
+10185,Health,//Products//Disease / Signs-Symptoms / Health,,09,Disease / Signs-Symptoms / Health,02,Health,,,1,0,3
+10186,Toxicology,//Products//Lab Monitoring,,10,Lab Monitoring,01,Toxicology,,,1,0,3
+10187,Database/Services,//Products//Database / Service,,11,Database / Service,01,Database/Services,,,1,0,3
+10188,Heatlh Food,//Products//Health Food / Cosmetics,,12,Health Food / Cosmetics,01,Heatlh Food,,,1,0,3
+10189,Cosmetics,//Products//Health Food / Cosmetics,,12,Health Food / Cosmetics,02,Cosmetics,,,1,0,3
+10190,Other,//Products//Health Food / Cosmetics,,12,Health Food / Cosmetics,03,Other,,,1,0,3
+10191,Fruit Extracts,//Products//Health Food / Cosmetics,,12,Health Food / Cosmetics,04,Fruit Extracts,,,1,0,3
+10192,Collagen,//Products//Health Food / Cosmetics,,12,Health Food / Cosmetics,05,Collagen,,,1,0,3
+10193,Fire Hazard,//Products//Fire Hazard,,13,Fire Hazard,01,Fire Hazard,,,1,0,3
+10194,Food Additives,//Products//Food Additives and Preservatives,,14,Food Additives and Preservatives,01,Food Additives,,,1,0,3
+10195,Food Preservatives,//Products//Food Additives and Preservatives,,14,Food Additives and Preservatives,02,Food Preservatives,,,1,0,3
+10196,Herbal Medicine,//Products//Herbal and Traditional Medicine,,15,Herbal and Traditional Medicine,01,Herbal Medicine,,,1,0,3
+10197,Traditional Medicine,//Products//Herbal and Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,,,1,0,3
+10198,Chemical Weapon,//Products//Chemical Weapons,,16,Chemical Weapons,01,Chemical Weapon,,,1,0,3
+10199,Methemoglobinemia,//Products//Methemoglobinemia,,17,Methemoglobinemia,01,Methemoglobinemia,,,1,0,3
+10200,Unknown Toxic Substance,//Products//Unknown Toxic Substance,,18,Unknown Toxic Substance,01,Unknown Toxic Substance,,,1,0,3
+10201,Others,//Products//Other Category,,19,Other Category,01,Others,,,1,0,3
+10202,"Antacids, Antiulcerants",//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0101,"Antacids, Antiulcerants",1,0,4
+10203,"GIT Regulators, Antiflatulents & Anti-inflammatories",//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0201,"GIT Regulators, Antiflatulents & Anti-inflammatories",1,0,4
+10204,"Topical Antiflatulents: มหาหิงค์, ยาธาตุ",//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0202,"Topical Antiflatulents: มหาหิงค์, ยาธาตุ",1,0,4
+10205,Antispasmodics,//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0301,Antispasmodics,1,0,4
+10206,Antidiarrheals,//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0401,Antidiarrheals,1,0,4
+10207,"Laxatives, Purgatives",//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0501,"Laxatives, Purgatives",1,0,4
+10208,Digestives,//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0601,Digestives,1,0,4
+10209,"Cholagogues, Cholelitholytics & Hepatic Protectors",//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0701,"Cholagogues, Cholelitholytics & Hepatic Protectors",1,0,4
+10210,Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0801,Unknown,1,0,4
+10211,Others Alimentary Drugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0901,Others Alimentary Drugs,1,0,4
+10212,"Antacids, Antiulcerants: H2 antagonist",//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0902,"Antacids, Antiulcerants: H2 antagonist",1,0,4
+10213,"Antacids, Antiulcerants: Proton Pump Inhibitor",//Products//Medical Drugs//Other Category,,01,Medical Drugs,01,Alimentary System,0903,"Antacids, Antiulcerants: Proton Pump Inhibitor",1,0,4
+10214,Cardiac Drugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0101,Cardiac Drugs,1,0,4
+10215,Anti-Anginal Drugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0201,Anti-Anginal Drugs,1,0,4
+10216,ACE-Inhibitors,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0301,ACE-Inhibitors,1,0,4
+10217,Beta Blockers: Propranolol,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0401,Beta Blockers: Propranolol,1,0,4
+10218,Beta Blockers: Atenolol,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0402,Beta Blockers: Atenolol,1,0,4
+10219,Beta Blockers: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0403,Beta Blockers: Others,1,0,4
+10220,Calcium Antagonists,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0501,Calcium Antagonists,1,0,4
+10221,Other Antihypertensives,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0601,Other Antihypertensives,1,0,4
+10222,Diuretics,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0701,Diuretics,1,0,4
+10223,Antidiuretics,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0801,Antidiuretics,1,0,4
+10224,Peripheral Vasodilators & Cerebral Activators,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,0901,Peripheral Vasodilators & Cerebral Activators,1,0,4
+10225,Vasoconstrictors,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1001,Vasoconstrictors,1,0,4
+10226,Migraine Drugs: Ergot alkaloids,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1101,Migraine Drugs: Ergot alkaloids,1,0,4
+10227,Haemostatics,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1201,Haemostatics,1,0,4
+10228,"Anticoagulants, Antithrombotics & Fibrinolytics:Heparin",//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1301,"Anticoagulants, Antithrombotics & Fibrinolytics:Heparin",1,0,4
+10229,"Haemorrhoidal, Phlebitis & Varicose Preparations",//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1401,"Haemorrhoidal, Phlebitis & Varicose Preparations",1,0,4
+10230,Haemorrheologicals,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1501,Haemorrheologicals,1,0,4
+10231,Haematopoietic Agents,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1601,Haematopoietic Agents,1,0,4
+10232,Other Cardiovascular Drugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1701,Other Cardiovascular Drugs,1,0,4
+10233,Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1801,Unknown,1,0,4
+10234,Migraine Drugs: Xanthine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1802,Migraine Drugs: Xanthine,1,0,4
+10235,Migraine Drugs: other alkaloids,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1803,Migraine Drugs: other alkaloids,1,0,4
+10236,Migraine Drugs: Barbiturate,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1804,Migraine Drugs: Barbiturate,1,0,4
+10237,"Anticoagulants, Antithrombotics & Fibrinolytics",//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1805,"Anticoagulants, Antithrombotics & Fibrinolytics",1,0,4
+10238,"Anticoagulants, Antithrombotics & Fibrinolytics: LMWHs",//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1806,"Anticoagulants, Antithrombotics & Fibrinolytics: LMWHs",1,0,4
+10239,Migrain Drugs: Other group,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1807,Migrain Drugs: Other group,1,0,4
+10240,Angiotension II Antagonists,//Products//Medical Drugs//Other Category,,01,Medical Drugs,02,Cardiovascular and Hematopoietic System,1808,Angiotension II Antagonists,1,0,4
+10241,Respiratory Stimulants,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0101,Respiratory Stimulants,1,0,4
+10242,Antiasthmatic Preparations: Beta agonist,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0201,Antiasthmatic Preparations: Beta agonist,1,0,4
+10243,Cough & Cold Remedies: Dextromethorphan/Codeine and deriv,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0301,Cough & Cold Remedies: Dextromethorphan/Codeine and deriv,1,0,4
+10244,Cough & Cold Remedies: Acetaminophen and other drugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0302,Cough & Cold Remedies: Acetaminophen and other drugs,1,0,4
+10245,Cough & Cold Remedies: Mucolytic/Expectorant,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0303,Cough & Cold Remedies: Mucolytic/Expectorant,1,0,4
+10246,Cough & Cold Remedies: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0304,Cough & Cold Remedies: Others,1,0,4
+10247,Cough & Cold Remedies: Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0305,Cough & Cold Remedies: Unknown,1,0,4
+10248,Decongestants & Other Nasal Preparations: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0401,Decongestants & Other Nasal Preparations: Others,1,0,4
+10249,Decongestants & Other Nasal Preparations: Eucalyptus oil,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0402,Decongestants & Other Nasal Preparations: Eucalyptus oil,1,0,4
+10250,Other Drugs Acting on Respiratory System,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0501,Other Drugs Acting on Respiratory System,1,0,4
+10251,Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0601,Unknown,1,0,4
+10252,Antiasthmatic Preparations: Xanthine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0602,Antiasthmatic Preparations: Xanthine,1,0,4
+10253,Antiasthmatic Preparations: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0603,Antiasthmatic Preparations: Others,1,0,4
+10254,Antiasthmatic Preparations: Long-acting Beta2 agonist,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0604,Antiasthmatic Preparations: Long-acting Beta2 agonist,1,0,4
+10255,Decongestants & Other Nasal Preparations: Essential oils,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0605,Decongestants & Other Nasal Preparations: Essential oils,1,0,4
+10256,Decongestants & Other Nasal Preparations: Imidazoline,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0606,Decongestants & Other Nasal Preparations: Imidazoline,1,0,4
+10257,Cough & Cold Remedies: Antihistamine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0607,Cough & Cold Remedies: Antihistamine,1,0,4
+10258,Cough & Cold Remedies: Sympathomimetics,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0608,Cough & Cold Remedies: Sympathomimetics,1,0,4
+10259,Cough & Cold Remedies: Antitussis,//Products//Medical Drugs//Other Category,,01,Medical Drugs,03,Respiratory System,0609,Cough & Cold Remedies: Antitussis,1,0,4
+10260,Anti-inflammatory Enzymes,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0101,Anti-inflammatory Enzymes,1,0,4
+10261,Analgesics & Antipyretics: Acetaminophen,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0201,Analgesics & Antipyretics: Acetaminophen,1,0,4
+10262,Analgesics & Antipyretics: ASA,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0202,Analgesics & Antipyretics: ASA,1,0,4
+10263,Analgesics & Antipyretics: NSAIDs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0203,Analgesics & Antipyretics: NSAIDs,1,0,4
+10264,Analgesics & Antipyretics:Opiate,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0204,Analgesics & Antipyretics:Opiate,1,0,4
+10265,Analgesics & Antipyretics: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0205,Analgesics & Antipyretics: Others,1,0,4
+10266,Analgesics & Antipyretics:Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0206,Analgesics & Antipyretics:Unknown,1,0,4
+10267,"Antirheumatic, Anti-inflammatory Analgesics: COX-2 inhibitor",//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0301,"Antirheumatic, Anti-inflammatory Analgesics: COX-2 inhibitor",1,0,4
+10268,Gout Preparations,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0401,Gout Preparations,1,0,4
+10269,Minor Tranquillisers: Benzodiazepine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0501,Minor Tranquillisers: Benzodiazepine,1,0,4
+10270,Minor Tranquillisers: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0502,Minor Tranquillisers: Others,1,0,4
+10271,Antipsychotics: Phenothiazine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0601,Antipsychotics: Phenothiazine,1,0,4
+10272,Antipsychotics: Butyrophenone,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0602,Antipsychotics: Butyrophenone,1,0,4
+10273,Antipsychotics: Thioxanthine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0603,Antipsychotics: Thioxanthine,1,0,4
+10274,Antipsychotics: Dibenzodiazepine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0604,Antipsychotics: Dibenzodiazepine,1,0,4
+10275,Antipsychotics: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0605,Antipsychotics: Others,1,0,4
+10276,Hypnotics & Sedatives: Benzodiazepine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0701,Hypnotics & Sedatives: Benzodiazepine,1,0,4
+10277,Hypnotics & Sedatives: Barbiturate,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0702,Hypnotics & Sedatives: Barbiturate,1,0,4
+10278,Hypnotics & Sedatives: Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0703,Hypnotics & Sedatives: Unknown,1,0,4
+10279,Hypnotics & Sedatives: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0704,Hypnotics & Sedatives: Others,1,0,4
+10280,Anticonvulsants: Benzodiazepine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0801,Anticonvulsants: Benzodiazepine,1,0,4
+10281,Anticonvulsants: Valproate,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0802,Anticonvulsants: Valproate,1,0,4
+10282,Anticonvulsants: Phenytoin,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0803,Anticonvulsants: Phenytoin,1,0,4
+10283,Anticonvulsants: Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0804,Anticonvulsants: Unknown,1,0,4
+10284,Anticonvulsants: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0805,Anticonvulsants: Others,1,0,4
+10285,Antidepressants: Tricyclic,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0901,Antidepressants: Tricyclic,1,0,4
+10286,Antidepressants: Thioxanthine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0902,Antidepressants: Thioxanthine,1,0,4
+10287,Antidepressants: Atypical tetracyclic,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0903,Antidepressants: Atypical tetracyclic,1,0,4
+10288,Antidepressants: Lithium,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0904,Antidepressants: Lithium,1,0,4
+10289,Antidepressants: SSRI,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0905,Antidepressants: SSRI,1,0,4
+10290,Antidepressants: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0906,Antidepressants: Others,1,0,4
+10291,Antidepressants: Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,0907,Antidepressants: Unknown,1,0,4
+10292,CNS Stimulants,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1001,CNS Stimulants,1,0,4
+10293,Nootropics & Neurotonics,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1101,Nootropics & Neurotonics,1,0,4
+10294,Antiemetics & Antivertigo Drugs: Antihistamine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1201,Antiemetics & Antivertigo Drugs: Antihistamine,1,0,4
+10295,Neurodegenerative Disease Drugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1301,Neurodegenerative Disease Drugs,1,0,4
+10296,Antiparkinsonism Preparations: Piperazine salt,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1401,Antiparkinsonism Preparations: Piperazine salt,1,0,4
+10297,Antiparkinsonism Preparations: Dopamine prodrugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1402,Antiparkinsonism Preparations: Dopamine prodrugs,1,0,4
+10298,Antiparkinsonism Preparations: Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1403,Antiparkinsonism Preparations: Unknown,1,0,4
+10299,Antiparkinsonism Preparations: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1404,Antiparkinsonism Preparations: Others,1,0,4
+10300,Neuromuscular Disorder Drugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1501,Neuromuscular Disorder Drugs,1,0,4
+10301,Muscle Relaxants: Central-acting,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1601,Muscle Relaxants: Central-acting,1,0,4
+10302,Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1701,Unknown,1,0,4
+10303,"Antirheumatic, Anti-inflammatory Analgesics: NSAID",//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1702,"Antirheumatic, Anti-inflammatory Analgesics: NSAID",1,0,4
+10304,"Antirheumatic, Anti-inflammatory Analgesics: Others",//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1703,"Antirheumatic, Anti-inflammatory Analgesics: Others",1,0,4
+10305,Antiemetics & Antivertigo Drugs: Dopamine antagonist,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1704,Antiemetics & Antivertigo Drugs: Dopamine antagonist,1,0,4
+10306,Muscle Relaxants: Acetaminophen,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1705,Muscle Relaxants: Acetaminophen,1,0,4
+10307,Muscle Relaxants: Others,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1706,Muscle Relaxants: Others,1,0,4
+10308,Muscle Relaxants: Orphenadrine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1707,Muscle Relaxants: Orphenadrine,1,0,4
+10309,Antiparkinsonism Preparations: Anticholinergic,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1708,Antiparkinsonism Preparations: Anticholinergic,1,0,4
+10310,Antipsychotics: Long-acting Barbiturate,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1709,Antipsychotics: Long-acting Barbiturate,1,0,4
+10311,Antipsychotics: Short-acting Barbiturate,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1710,Antipsychotics: Short-acting Barbiturate,1,0,4
+10312,Antipsychotics: Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1711,Antipsychotics: Unknown,1,0,4
+10313,Antipsychotics: Ergot alkaloid,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1712,Antipsychotics: Ergot alkaloid,1,0,4
+10314,Antipsychotics: Anticholinergic,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1713,Antipsychotics: Anticholinergic,1,0,4
+10315,Anticonvulsants: Carbamazepine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1714,Anticonvulsants: Carbamazepine,1,0,4
+10316,Antipsychotics: Short-acting Barbiturate,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1715,Antipsychotics: Short-acting Barbiturate,1,0,4
+10317,Antipsychotics: Atypical neuroleptic,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1716,Antipsychotics: Atypical neuroleptic,1,0,4
+10318,Antidepressants: Tetracyclic,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1717,Antidepressants: Tetracyclic,1,0,4
+10319,Antidepressants: Phenothiazine,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1718,Antidepressants: Phenothiazine,1,0,4
+10320,Antidepressants: MAOI,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1719,Antidepressants: MAOI,1,0,4
+10321,Muscle Relaxants: Unknown,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1720,Muscle Relaxants: Unknown,1,0,4
+10322,Anxiolytics,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1721,Anxiolytics,1,0,4
+10323,Antimigrain drugs,//Products//Medical Drugs//Other Category,,01,Medical Drugs,04,Neuro-Muscular System,1722,Antimigrain drugs,1,0,4
+10324,Androgens & Related Synthetic Drugs,//Products//Medical Drugs//Hormones,,01,Medical Drugs,05,Hormones,0101,Androgens & Related Synthetic Drugs,1,0,4
+10325,Oestrogens & Progesterones & Related Synthetic Drugs,//Products//Medical Drugs//Hormones,,01,Medical Drugs,05,Hormones,0201,Oestrogens & Progesterones & Related Synthetic Drugs,1,0,4
+10326,Combined Sex Hormones,//Products//Medical Drugs//Hormones,,01,Medical Drugs,05,Hormones,0301,Combined Sex Hormones,1,0,4
+10327,Corticosteroid Hormones,//Products//Medical Drugs//Hormones,,01,Medical Drugs,05,Hormones,0401,Corticosteroid Hormones,1,0,4
+10328,Trophic Hormones & Related Synthetic Drugs,//Products//Medical Drugs//Hormones,,01,Medical Drugs,05,Hormones,0501,Trophic Hormones & Related Synthetic Drugs,1,0,4
+10329,Anabolic Agents,//Products//Medical Drugs//Hormones,,01,Medical Drugs,05,Hormones,0601,Anabolic Agents,1,0,4
+10330,Other Hormone Related Drugs,//Products//Medical Drugs//Hormones,,01,Medical Drugs,05,Hormones,0701,Other Hormone Related Drugs,1,0,4
+10331,Unknown,//Products//Medical Drugs//Hormones,,01,Medical Drugs,05,Hormones,0801,Unknown,1,0,4
+10332,Depot Contraceptives,//Products//Medical Drugs//Contraceptive agents,,01,Medical Drugs,06,Contraceptive agents,0101,Depot Contraceptives,1,0,4
+10333,Oral Contraceptives,//Products//Medical Drugs//Contraceptive agents,,01,Medical Drugs,06,Contraceptive agents,0201,Oral Contraceptives,1,0,4
+10334,Other Contraceptives,//Products//Medical Drugs//Contraceptive agents,,01,Medical Drugs,06,Contraceptive agents,0301,Other Contraceptives,1,0,4
+10335,Unknown,//Products//Medical Drugs//Contraceptive agents,,01,Medical Drugs,06,Contraceptive agents,0401,Unknown,1,0,4
+10336,Aminoglycosides,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0101,Aminoglycosides,1,0,4
+10337,Cephalosporins,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0201,Cephalosporins,1,0,4
+10338,Chloramphenicols,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0301,Chloramphenicols,1,0,4
+10339,Macrolides,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0401,Macrolides,1,0,4
+10340,Penicillins,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0501,Penicillins,1,0,4
+10341,Quinolones,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0601,Quinolones,1,0,4
+10342,Tetracyclines,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0701,Tetracyclines,1,0,4
+10343,Antifungals: Imidazole,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0801,Antifungals: Imidazole,1,0,4
+10344,Antibacterial Combinations,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,0901,Antibacterial Combinations,1,0,4
+10345,Other Antibiotics,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,1001,Other Antibiotics,1,0,4
+10346,Unknown,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,1101,Unknown,1,0,4
+10347,Antifungals: Trizole,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,1102,Antifungals: Trizole,1,0,4
+10348,Antifungals: Others,//Products//Medical Drugs//Antibiotics,,01,Medical Drugs,07,Antibiotics,1103,Antifungals: Others,1,0,4
+10349,Antituberculous Agents,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0101,Antituberculous Agents,1,0,4
+10350,Sulphonamides,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0201,Sulphonamides,1,0,4
+10351,Antiamoebics,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0301,Antiamoebics,1,0,4
+10352,Anthelmintics,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0401,Anthelmintics,1,0,4
+10353,Antileprotics,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0501,Antileprotics,1,0,4
+10354,Antivirals,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0601,Antivirals,1,0,4
+10355,Antineoplastics,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0701,Antineoplastics,1,0,4
+10356,Antimalarials,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0801,Antimalarials,1,0,4
+10357,"Leishmaniacides, Trypanocides",//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,0901,"Leishmaniacides, Trypanocides",1,0,4
+10358,Filaricides,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,1001,Filaricides,1,0,4
+10359,Unknown,//Products//Medical Drugs//Other Chemotherapeutics,,01,Medical Drugs,08,Other Chemotherapeutics,1101,Unknown,1,0,4
+10360,Preparations for Vaginal Conditions,//Products//Medical Drugs//Genito-Urinary System,,01,Medical Drugs,09,Genito-Urinary System,0101,Preparations for Vaginal Conditions,1,0,4
+10361,Urinary Antiseptics,//Products//Medical Drugs//Genito-Urinary System,,01,Medical Drugs,09,Genito-Urinary System,0201,Urinary Antiseptics,1,0,4
+10362,Durgs Acting on Uterus,//Products//Medical Drugs//Genito-Urinary System,,01,Medical Drugs,09,Genito-Urinary System,0301,Durgs Acting on Uterus,1,0,4
+10363,Other Drugs Acting on Genito-Urinary System,//Products//Medical Drugs//Genito-Urinary System,,01,Medical Drugs,09,Genito-Urinary System,0401,Other Drugs Acting on Genito-Urinary System,1,0,4
+10364,Unknown,//Products//Medical Drugs//Genito-Urinary System,,01,Medical Drugs,09,Genito-Urinary System,0501,Unknown,1,0,4
+10365,Insulins,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0101,Insulins,1,0,4
+10366,Oral Antidiabetic Agents: Sulfonylurea,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0201,Oral Antidiabetic Agents: Sulfonylurea,1,0,4
+10367,Thyroid Preparations,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0301,Thyroid Preparations,1,0,4
+10368,Antithyroids,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0401,Antithyroids,1,0,4
+10369,Antihyperlipidaemic Agents,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0501,Antihyperlipidaemic Agents,1,0,4
+10370,Other Agents Affecting Metabolism,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0601,Other Agents Affecting Metabolism,1,0,4
+10371,Unknown,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0701,Unknown,1,0,4
+10372,Oral Antidiabetic Agents: Biguanides,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0702,Oral Antidiabetic Agents: Biguanides,1,0,4
+10373,Oral Antidiabetic Agents: Alpha-glucosidase inhibitor,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0703,Oral Antidiabetic Agents: Alpha-glucosidase inhibitor,1,0,4
+10374,Oral Antidiabetic Agents: Others,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0704,Oral Antidiabetic Agents: Others,1,0,4
+11082,Oral Antidiabetic Agents: Dipeptidyl peptidase inhibitor,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0802,Oral Antidiabetic Agents: Dipeptidyl peptidase inhibitor,1,0,4
+11083,Oral Antidiabetic Agents: Meglitinide,//Products//Medical Drugs//Metabolism,,01,Medical Drugs,10,Metabolism,0803,Oral Antidiabetic Agents: Meglitinide,1,0,4
+10375,"Vitamins A, D, E",//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0101,"Vitamins A, D, E",1,0,4
+10376,Vitamins Bs/with C,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0201,Vitamins B's/with C,1,0,4
+10377,Vitamin C,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0301,Vitamin C,1,0,4
+10378,Calcium/  with Vitamins,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0401,Calcium/  with Vitamins,1,0,4
+10379,Multivitamins/ with Minerals,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0501,Multivitamins/ with Minerals,1,0,4
+10380,Vitamins with Hormones/ Geriatric Preparations,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0601,Vitamins with Hormones/ Geriatric Preparations,1,0,4
+10381,Paediatric Vitamins & Minerals: Fluoride,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0701,Paediatric Vitamins & Minerals: Fluoride,1,0,4
+10382,Others,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0702,Others,1,0,4
+10383,Electrolytes and Minerals,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0801,Electrolytes and Minerals,1,0,4
+10384,Antianemics/ Pre&Post Natal Vitamins: Iron,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0901,Antianemics/ Pre&Post Natal Vitamins: Iron,1,0,4
+10385,Antianemics/ Pre&Post Natal Vitamins: Others,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,0902,Antianemics/ Pre&Post Natal Vitamins: Others,1,0,4
+10386,Unknown,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,1001,Unknown,1,0,4
+10387,Paediatric Vitamins & Minerals: Others,//Products//Medical Drugs//Vitamins and Minerals,,01,Medical Drugs,11,Vitamins and Minerals,1002,Paediatric Vitamins & Minerals: Others,1,0,4
+10388,Infant/ Follow-On Formulae,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0101,Infant/ Follow-On Formulae,1,0,4
+10389,Enteral/ Nutritional Products,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0201,Enteral/ Nutritional Products,1,0,4
+10390,Parenteral Nutrition,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0301,Parenteral Nutrition,1,0,4
+10391,Tonics,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0401,Tonics,1,0,4
+10392,Appetite Stimulants,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0501,Appetite Stimulants,1,0,4
+10393,Antiobesity Agents: Amphetamine derivatives,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0601,Antiobesity Agents: Amphetamine derivatives,1,0,4
+10394,Unknown,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0701,Unknown,1,0,4
+10395,Antiobesity Agents: Othres,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0702,Antiobesity Agents: Othres,1,0,4
+10396,Antiobesity Agents: Unknown,//Products//Medical Drugs//Nutrition,,01,Medical Drugs,12,Nutrition,0703,Antiobesity Agents: Unknown,1,0,4
+10397,Eye Anti-infectives & Antiseptics: Boric acid,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",0101,Eye Anti-infectives & Antiseptics: Boric acid,1,0,4
+10398,Eye Corticosteroids,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",0201,Eye Corticosteroids,1,0,4
+10399,Eye Antiseptics with Corticosteroids,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",0301,Eye Antiseptics with Corticosteroids,1,0,4
+10400,Mydriatic Drugs,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",0401,Mydriatic Drugs,1,0,4
+10401,Miotic Drugs,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",0501,Miotic Drugs,1,0,4
+10402,Glaucoma Preparation,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",0601,Glaucoma Preparation,1,0,4
+10403,Other Eye Preparation,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",0701,Other Eye Preparation,1,0,4
+10404,Ear Anti-infectives & Antiseptics,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",1101,Ear Anti-infectives & Antiseptics,1,0,4
+10405,Ear Corticosteroids,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",1201,Ear Corticosteroids,1,0,4
+10406,Ear Antiseptics with Corticosteroids,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",1301,Ear Antiseptics with Corticosteroids,1,0,4
+10407,Other Ear Preparations,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",1401,Other Ear Preparations,1,0,4
+10408,Mouth/ Throat Preparations,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",2101,Mouth/ Throat Preparations,1,0,4
+10409,Unknown,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",3001,Unknown,1,0,4
+10410,Eye Anti-infectives & Antiseptics: Cationic detergent,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",3002,Eye Anti-infectives & Antiseptics: Cationic detergent,1,0,4
+10411,Eye Anti-infectives & Antiseptics: Other,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",3003,Eye Anti-infectives & Antiseptics: Other,1,0,4
+10412,Eye Anti-infectives & Antiseptics: Unknown,"//Products//Medical Drugs//Eye, Ear, Mouth and Throat",,01,Medical Drugs,13,"Eye, Ear, Mouth and Throat",3004,Eye Anti-infectives & Antiseptics: Unknown,1,0,4
+10413,Topical Anti-infectives: Organic Mercury,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0101,Topical Anti-infectives: Organic Mercury,1,0,4
+10414,Topical Anti-infectives: Ethanol/Isopropanol,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0102,Topical Anti-infectives: Ethanol/Isopropanol,1,0,4
+10415,Topical Anti-infectives: Iodine,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0103,Topical Anti-infectives: Iodine,1,0,4
+10416,Topical Anti-infectives with Corticosteroids,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0201,Topical Anti-infectives with Corticosteroids,1,0,4
+10417,Topical Corticosteroids,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0301,Topical Corticosteroids,1,0,4
+10418,Acne Treatment Preparations,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0401,Acne Treatment Preparations,1,0,4
+10419,Antiseptics & Disinfectants: H2O2,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0501,Antiseptics & Disinfectants: H2O2,1,0,4
+10420,"Antiseptics & Disinfectants: Phenol (Cresol, Chloroxylenol)",//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0502,"Antiseptics & Disinfectants: Phenol (Cresol, Chloroxylenol)",1,0,4
+10421,Antiseptics & Disinfectants: Chlorhexidine,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0503,Antiseptics & Disinfectants: Chlorhexidine,1,0,4
+10422,Antiseptics & Disinfectants: Gentian violet,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0504,Antiseptics & Disinfectants: Gentian violet,1,0,4
+10423,Medicated Surgical Dressings,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0601,Medicated Surgical Dressings,1,0,4
+10424,Topical Fungicides & Antiparasites: Salicylic acid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0701,Topical Fungicides & Antiparasites: Salicylic acid,1,0,4
+10425,Topical Fungicides & Antiparasites: Benzyl benzoate,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0702,Topical Fungicides & Antiparasites: Benzyl benzoate,1,0,4
+10426,"Psoriasis, Seborrhea & Ichthyosis Preparations",//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0801,"Psoriasis, Seborrhea & Ichthyosis Preparations",1,0,4
+10427,Topical Antivirals,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,0901,Topical Antivirals,1,0,4
+10428,Keratolytics: Salicylic acid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1001,Keratolytics: Salicylic acid,1,0,4
+10429,Skin Protectives,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1101,Skin Protectives,1,0,4
+10430,Topical Antihistamines/Antipruritics : Calamine,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1201,Topical Antihistamines/Antipruritics : Calamine,1,0,4
+10431,Topical Analgesics & Anti-inflammatories: NSAIDs,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1301,Topical Analgesics & Anti-inflammatories: NSAIDs,1,0,4
+10432,Topical Analgesics & Anti-inflammatories: Essential oil,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1302,Topical Analgesics & Anti-inflammatories: Essential oil,1,0,4
+10433,Other Dermatologicals,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1401,Other Dermatologicals,1,0,4
+10434,Treatment of dundruff,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1402,Treatment of dundruff,1,0,4
+10435,Others,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1403,Others,1,0,4
+10436,Unknown,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1501,Unknown,1,0,4
+10437,Topical Antihistamines/Antipruritics : Others,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1502,Topical Antihistamines/Antipruritics : Others,1,0,4
+10438,Keratolytics: Lactic acid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1503,Keratolytics: Lactic acid,1,0,4
+10439,Topical Fungicides & Antiparasites: Conazole,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1504,Topical Fungicides & Antiparasites: Conazole,1,0,4
+10440,Topical Fungicides & Antiparasites: Organochlorine,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1505,Topical Fungicides & Antiparasites: Organochlorine,1,0,4
+10441,Topical Fungicides & Antiparasites: Others e.g. Sulphur,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1506,Topical Fungicides & Antiparasites: Others e.g. Sulphur,1,0,4
+10442,Topical Fungicides & Antiparasites: Unknown,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1507,Topical Fungicides & Antiparasites: Unknown,1,0,4
+10443,Topical Fungicides & Antiparasites: Pyrethroid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1508,Topical Fungicides & Antiparasites: Pyrethroid,1,0,4
+10444,Topical Analgesics & Anti-inflammatories: Methyl salicylate,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1509,Topical Analgesics & Anti-inflammatories: Methyl salicylate,1,0,4
+10445,Topical Analgesics & Anti-inflammatories: Others,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1510,Topical Analgesics & Anti-inflammatories: Others,1,0,4
+10446,Topical Analgesics & Anti-inflammatories: Unknown,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1511,Topical Analgesics & Anti-inflammatories: Unknown,1,0,4
+10447,Topical Anti-infectives: Ethanol,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1512,Topical Anti-infectives: Ethanol,1,0,4
+10448,Antiseptics & Disinfectants: Cationic detergent,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1513,Antiseptics & Disinfectants: Cationic detergent,1,0,4
+10449,Antiseptics & Disinfectants: Glutaraldehyde,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1514,Antiseptics & Disinfectants: Glutaraldehyde,1,0,4
+10450,Antiseptics & Disinfectants: Others,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1515,Antiseptics & Disinfectants: Others,1,0,4
+10451,Topical Anti-infectives: Isopropanol,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1516,Topical Anti-infectives: Isopropanol,1,0,4
+10452,Topical Anti-infectives: Others,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1517,Topical Anti-infectives: Others,1,0,4
+10453,Antiseptics & Disinfectants: Hypochlorite,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1518,Antiseptics & Disinfectants: Hypochlorite,1,0,4
+10454,Antiseptics & Disinfectants: Alcohol,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1519,Antiseptics & Disinfectants: Alcohol,1,0,4
+10455,Keratolytics: Glycolic acid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1520,Keratolytics: Glycolic acid,1,0,4
+10456,Keratolytics: Unknown,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1521,Keratolytics: Unknown,1,0,4
+10457,Treatment of warts: TCA acid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1522,Treatment of warts: TCA acid,1,0,4
+10458,Treatment of warts: Salicylic acid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1523,Treatment of warts: Salicylic acid,1,0,4
+10459,Treatment of warts: Lactic acid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1524,Treatment of warts: Lactic acid,1,0,4
+10460,Keratolytics: Benzoic acid,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1525,Keratolytics: Benzoic acid,1,0,4
+10461,Topical  Fugicides and  Antiparasites:Others,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1526,Topical  Fugicides and  Antiparasites:Others,1,0,4
+10462,Treatment of warts:Other,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1527,Treatment of warts:Other,1,0,4
+10463,Keratolytics: Other,//Products//Medical Drugs//Dermatologicals,,01,Medical Drugs,14,Dermatologicals,1528,Keratolytics: Other,1,0,4
+10464,Anaesthetics Local & General,//Products//Medical Drugs//Anaesthetics Local and General,,01,Medical Drugs,15,Anaesthetics Local and General,0101,Anaesthetics Local & General,1,0,4
+10465,Unknown,//Products//Medical Drugs//Anaesthetics Local and General,,01,Medical Drugs,15,Anaesthetics Local and General,0201,Unknown,1,0,4
+10466,Others,//Products//Medical Drugs//Anaesthetics Local and General,,01,Medical Drugs,15,Anaesthetics Local and General,0202,Others,1,0,4
+10467,Radiocontrast Media: Iodinated contrast media,//Products//Medical Drugs//Diagnostic Agents,,01,Medical Drugs,16,Diagnostic Agents,0101,Radiocontrast Media: Iodinated contrast media,1,0,4
+10468,Unknown,//Products//Medical Drugs//Diagnostic Agents,,01,Medical Drugs,16,Diagnostic Agents,0201,Unknown,1,0,4
+10469,Antihistamines & Antiallergics: CPM,//Products//Medical Drugs//Allergy and Immune System,,01,Medical Drugs,17,Allergy and Immune System,0101,Antihistamines & Antiallergics: CPM,1,0,4
+10470,Antihistamines & Antiallergics: Diphenhydramine,//Products//Medical Drugs//Allergy and Immune System,,01,Medical Drugs,17,Allergy and Immune System,0102,Antihistamines & Antiallergics: Diphenhydramine,1,0,4
+10471,Antihistamines & Antiallergics: Others,//Products//Medical Drugs//Allergy and Immune System,,01,Medical Drugs,17,Allergy and Immune System,0103,Antihistamines & Antiallergics: Others,1,0,4
+10472,Antihistamines & Antiallergics: Unknown,//Products//Medical Drugs//Allergy and Immune System,,01,Medical Drugs,17,Allergy and Immune System,0104,Antihistamines & Antiallergics: Unknown,1,0,4
+10473,"Vaccines, Antisera & Immunologicals",//Products//Medical Drugs//Allergy and Immune System,,01,Medical Drugs,17,Allergy and Immune System,0201,"Vaccines, Antisera & Immunologicals",1,0,4
+10474,Immunosuppressants,//Products//Medical Drugs//Allergy and Immune System,,01,Medical Drugs,17,Allergy and Immune System,0301,Immunosuppressants,1,0,4
+10475,Unknown,//Products//Medical Drugs//Allergy and Immune System,,01,Medical Drugs,17,Allergy and Immune System,0401,Unknown,1,0,4
+10476,Methadone,"//Products//Medical Drugs//Antidotes, Detoxifying Agents",,01,Medical Drugs,18,"Antidotes, Detoxifying Agents",0101,Methadone,1,0,4
+10477,Naloxone,"//Products//Medical Drugs//Antidotes, Detoxifying Agents",,01,Medical Drugs,18,"Antidotes, Detoxifying Agents",0201,Naloxone,1,0,4
+10478,Others,"//Products//Medical Drugs//Antidotes, Detoxifying Agents",,01,Medical Drugs,18,"Antidotes, Detoxifying Agents",0301,Others,1,0,4
+10479,Unknown,"//Products//Medical Drugs//Antidotes, Detoxifying Agents",,01,Medical Drugs,18,"Antidotes, Detoxifying Agents",0401,Unknown,1,0,4
+10480,Intravenous & Other Sterile Solutions,//Products//Medical Drugs//Intravenous and Other Steriles Solutions,,01,Medical Drugs,19,Intravenous and Other Steriles Solutions,0101,Intravenous & Other Sterile Solutions,1,0,4
+10481,Unknown,//Products//Medical Drugs//Intravenous and Other Steriles Solutions,,01,Medical Drugs,19,Intravenous and Other Steriles Solutions,0201,Unknown,1,0,4
+11096,Antiseptics & disinfectant,//Products//Medical Drugs//Intravenous and Other Steriles Solutions,,01,Medical Drugs,19,Intravenous and Other Steriles Solutions,0301,Antiseptics & disinfectant,1,0,4
+11089,Miscellaneous: Treatment of psoriasis,//Products//Medical Drugs//Miscellaneous,,01,Medical Drugs,20,Miscellaneous,0203,Miscellaneous: Treatment of psoriasis,1,0,4
+10482,Miscellaneou: Ammonia,//Products//Medical Drugs//Miscellaneous,,01,Medical Drugs,20,Miscellaneous,0101,Miscellaneou: Ammonia,1,0,4
+10483,Unknown,//Products//Medical Drugs//Miscellaneous,,01,Medical Drugs,20,Miscellaneous,0201,Unknown,1,0,4
+10484,Miscellaneou: Alcohol,//Products//Medical Drugs//Miscellaneous,,01,Medical Drugs,20,Miscellaneous,0202,Miscellaneou: Alcohol,1,0,4
+10485,Unknown,//Products//Medical Drugs//Unknown,,01,Medical Drugs,21,Unknown,0101,Unknown,1,0,4
+10486,Others,//Products//Medical Drugs//Others,,01,Medical Drugs,22,Others,0101,Others,1,0,4
+10487,Antipsychotic: benzamide,//Products//Medical Drugs//Others,,01,Medical Drugs,22,Others,0102,Antipsychotic: benzamide,1,0,4
+11115,Medicine for animals,//Products//Medical Drugs//Others,,01,Medical Drugs,22,Others,3010,Medicine for animals,1,0,4
+10488,Adhesive agent: Cyanoacrylate,//Products//Technical and Occupational Products//Adhesive agent,,02,Technical and Occupational Products,01,Adhesive agent,0101,Adhesive agent: Cyanoacrylate,1,0,4
+10489,Adhesive agent: Others,//Products//Technical and Occupational Products//Adhesive agent,,02,Technical and Occupational Products,01,Adhesive agent,0102,Adhesive agent: Others,1,0,4
+10490,Adhesive agent: Unknown,//Products//Technical and Occupational Products//Adhesive agent,,02,Technical and Occupational Products,01,Adhesive agent,0103,Adhesive agent: Unknown,1,0,4
+10491,Solventt: toluene,//Products//Technical and Occupational Products//Adhesive agent,,02,Technical and Occupational Products,01,Adhesive agent,0104,Solventt: toluene,1,0,4
+10492,Glue,//Products//Technical and Occupational Products//Adhesive agent,,02,Technical and Occupational Products,01,Adhesive agent,0105,Glue,1,0,4
+10493,Astringent,//Products//Technical and Occupational Products//Astringent,,02,Technical and Occupational Products,02,Astringent,0101,Astringent,1,0,4
+10494,Antifreeze/coolant,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0101,Antifreeze/coolant,1,0,4
+10495,Brake fluid,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0201,Brake fluid,1,0,4
+10496,Diesel oil,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0301,Diesel oil,1,0,4
+10497,Gasoline,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0401,Gasoline,1,0,4
+10498,Motor oil/ Lubricant,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0501,Motor oil/ Lubricant,1,0,4
+10499,Polishing/ Coating agent,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0601,Polishing/ Coating agent,1,0,4
+10500,Cleaning/ Shampooing,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0701,Cleaning/ Shampooing,1,0,4
+10501,Other,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0801,Other,1,0,4
+10502,Unknown,//Products//Technical and Occupational Products//Automotive products,,02,Technical and Occupational Products,03,Automotive products,0901,Unknown,1,0,4
+10503,With mercury,//Products//Technical and Occupational Products//Battery dry cell,,02,Technical and Occupational Products,04,Battery dry cell,0101,With mercury,1,0,4
+10504,Without mercury,//Products//Technical and Occupational Products//Battery dry cell,,02,Technical and Occupational Products,04,Battery dry cell,0201,Without mercury,1,0,4
+10505,Other,//Products//Technical and Occupational Products//Battery dry cell,,02,Technical and Occupational Products,04,Battery dry cell,0301,Other,1,0,4
+10506,Bleaching agent,//Products//Technical and Occupational Products//Bleaching agent,,02,Technical and Occupational Products,05,Bleaching agent,0101,Bleaching agent,1,0,4
+10507,Cement sealer,//Products//Technical and Occupational Products//Caulking compound,,02,Technical and Occupational Products,06,Caulking compound,0101,Cement sealer,1,0,4
+10508,Alkali formulation,//Products//Technical and Occupational Products//Cleaning agent for air conditioner,,02,Technical and Occupational Products,07,Cleaning agent for air conditioner,0101,Alkali formulation,1,0,4
+10509,Detergent,//Products//Technical and Occupational Products//Cleaning agent for air conditioner,,02,Technical and Occupational Products,07,Cleaning agent for air conditioner,0201,Detergent,1,0,4
+10510,Irritant,//Products//Technical and Occupational Products//Cleaning agent for air conditioner,,02,Technical and Occupational Products,07,Cleaning agent for air conditioner,0301,Irritant,1,0,4
+10511,Other,//Products//Technical and Occupational Products//Cleaning agent for air conditioner,,02,Technical and Occupational Products,07,Cleaning agent for air conditioner,0401,Other,1,0,4
+10512,Unknown,//Products//Technical and Occupational Products//Cleaning agent for air conditioner,,02,Technical and Occupational Products,07,Cleaning agent for air conditioner,0501,Unknown,1,0,4
+10513,Acid formulation,//Products//Technical and Occupational Products//Cleaning agent for floor,,02,Technical and Occupational Products,08,Cleaning agent for floor,0101,Acid formulation,1,0,4
+10514,Detergent,//Products//Technical and Occupational Products//Cleaning agent for floor,,02,Technical and Occupational Products,08,Cleaning agent for floor,0201,Detergent,1,0,4
+10515,Irritant,//Products//Technical and Occupational Products//Cleaning agent for floor,,02,Technical and Occupational Products,08,Cleaning agent for floor,0301,Irritant,1,0,4
+10516,Other,//Products//Technical and Occupational Products//Cleaning agent for floor,,02,Technical and Occupational Products,08,Cleaning agent for floor,0401,Other,1,0,4
+10517,Unknown,//Products//Technical and Occupational Products//Cleaning agent for floor,,02,Technical and Occupational Products,08,Cleaning agent for floor,0501,Unknown,1,0,4
+10518,Acid formulation,//Products//Technical and Occupational Products//Cleaning agent for Multipurpose,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,0101,Acid formulation,1,0,4
+10519,Alkali formulation,//Products//Technical and Occupational Products//Cleaning agent for Multipurpose,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,0201,Alkali formulation,1,0,4
+10520,Detergent,//Products//Technical and Occupational Products//Cleaning agent for Multipurpose,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,0301,Detergent,1,0,4
+10521,Irritant,//Products//Technical and Occupational Products//Cleaning agent for Multipurpose,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,0401,Irritant,1,0,4
+10522,Other,//Products//Technical and Occupational Products//Cleaning agent for Multipurpose,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,0501,Other,1,0,4
+10523,Unknown,//Products//Technical and Occupational Products//Cleaning agent for Multipurpose,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,0601,Unknown,1,0,4
+10524,Alcohol,//Products//Technical and Occupational Products//Cleaning agent for Multipurpose,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,0602,Alcohol,1,0,4
+10525,Hydrocarbon,//Products//Technical and Occupational Products//Cleaning agent for Multipurpose,,02,Technical and Occupational Products,09,Cleaning agent for Multipurpose,0603,Hydrocarbon,1,0,4
+10526,Alkali formulation,//Products//Technical and Occupational Products//Concrete:  Curing membrane,,02,Technical and Occupational Products,10,Concrete:  Curing membrane,0101,Alkali formulation,1,0,4
+10527,Others,//Products//Technical and Occupational Products//Concrete:  Curing membrane,,02,Technical and Occupational Products,10,Concrete:  Curing membrane,0102,Others,1,0,4
+10528,Alcohol,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0101,Alcohol,1,0,4
+10529,Borate,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0201,Borate,1,0,4
+10530,Chlorine,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0301,Chlorine,1,0,4
+10531,Formalin/Formaldehyde,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0401,Formalin/Formaldehyde,1,0,4
+10532,Hydrogen peroxide,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0501,Hydrogen peroxide,1,0,4
+10533,Glutaraldehyde/Aldehyde,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0601,Glutaraldehyde/Aldehyde,1,0,4
+10534,Phenol/Cresol,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0701,Phenol/Cresol,1,0,4
+10535,Potassium permanganate,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0801,Potassium permanganate,1,0,4
+10536,Cationic detergent,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,0901,Cationic detergent,1,0,4
+10537,Others,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,1001,Others,1,0,4
+10538,Unknown,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,1101,Unknown,1,0,4
+10539,Non/anionic detergents,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,1102,Non/anionic detergents,1,0,4
+10540,Acids,//Products//Technical and Occupational Products//Antiseptic&Disinfectants,,02,Technical and Occupational Products,11,Antiseptic&Disinfectants,1103,Acids,1,0,4
+10541,Dispersant,//Products//Technical and Occupational Products//Dispersant,,02,Technical and Occupational Products,12,Dispersant,0101,Dispersant,1,0,4
+10542,Dye,//Products//Technical and Occupational Products//Dye,,02,Technical and Occupational Products,13,Dye,0101,Dye,1,0,4
+10543,Dry chemical,//Products//Technical and Occupational Products//Fire extinguisher,,02,Technical and Occupational Products,14,Fire extinguisher,0101,Dry chemical,1,0,4
+10544,Liquid foam,//Products//Technical and Occupational Products//Fire extinguisher,,02,Technical and Occupational Products,14,Fire extinguisher,0201,Liquid foam,1,0,4
+10545,Mechanical foam,//Products//Technical and Occupational Products//Fire extinguisher,,02,Technical and Occupational Products,14,Fire extinguisher,0301,Mechanical foam,1,0,4
+10546,Powder,//Products//Technical and Occupational Products//Fire extinguisher,,02,Technical and Occupational Products,14,Fire extinguisher,0401,Powder,1,0,4
+10547,Powder foam,//Products//Technical and Occupational Products//Fire extinguisher,,02,Technical and Occupational Products,14,Fire extinguisher,0501,Powder foam,1,0,4
+10548,Other,//Products//Technical and Occupational Products//Fire extinguisher,,02,Technical and Occupational Products,14,Fire extinguisher,0601,Other,1,0,4
+10549,Unknown,//Products//Technical and Occupational Products//Fire extinguisher,,02,Technical and Occupational Products,14,Fire extinguisher,0701,Unknown,1,0,4
+10550,Additive,//Products//Technical and Occupational Products//Fuel,,02,Technical and Occupational Products,15,Fuel,0101,Additive,1,0,4
+10551,Cooking fuel,//Products//Technical and Occupational Products//Fuel,,02,Technical and Occupational Products,15,Fuel,0201,Cooking fuel,1,0,4
+10552,Lighter fuel,//Products//Technical and Occupational Products//Fuel,,02,Technical and Occupational Products,15,Fuel,0301,Lighter fuel,1,0,4
+10553,Model airplane fuel,//Products//Technical and Occupational Products//Fuel,,02,Technical and Occupational Products,15,Fuel,0401,Model airplane fuel,1,0,4
+10554,Oil lamp fuel: Methanol,//Products//Technical and Occupational Products//Fuel,,02,Technical and Occupational Products,15,Fuel,0501,Oil lamp fuel: Methanol,1,0,4
+10555,Oil lamp fuel: Others,//Products//Technical and Occupational Products//Fuel,,02,Technical and Occupational Products,15,Fuel,0502,Oil lamp fuel: Others,1,0,4
+10556,Others,//Products//Technical and Occupational Products//Fuel,,02,Technical and Occupational Products,15,Fuel,0601,Others,1,0,4
+10557,Cyanide (solution),//Products//Technical and Occupational Products//Gilt solution (ชุบทอง),,02,Technical and Occupational Products,16,Gilt solution (ชุบทอง),0101,Cyanide (solution),1,0,4
+10558,Detergent,//Products//Technical and Occupational Products//Gilt solution (ชุบทอง),,02,Technical and Occupational Products,16,Gilt solution (ชุบทอง),0201,Detergent,1,0,4
+10559,Other,//Products//Technical and Occupational Products//Gilt solution (ชุบทอง),,02,Technical and Occupational Products,16,Gilt solution (ชุบทอง),0301,Other,1,0,4
+10560,Unknown,//Products//Technical and Occupational Products//Gilt solution (ชุบทอง),,02,Technical and Occupational Products,16,Gilt solution (ชุบทอง),0401,Unknown,1,0,4
+10561,Hydrofluoric acid,//Products//Technical and Occupational Products//Glass etching,,02,Technical and Occupational Products,17,Glass etching,0101,Hydrofluoric acid,1,0,4
+10562,Hardener:Photographic,//Products//Technical and Occupational Products//Hardener:Photographic,,02,Technical and Occupational Products,18,Hardener:Photographic,0101,Hardener:Photographic,1,0,4
+10563,Lead,//Products//Technical and Occupational Products//Heavy metal,,02,Technical and Occupational Products,19,Heavy metal,0101,Lead,1,0,4
+10564,Mercury,//Products//Technical and Occupational Products//Heavy metal,,02,Technical and Occupational Products,19,Heavy metal,0201,Mercury,1,0,4
+10565,Arsenic,//Products//Technical and Occupational Products//Heavy metal,,02,Technical and Occupational Products,19,Heavy metal,0301,Arsenic,1,0,4
+10566,Cadmium,//Products//Technical and Occupational Products//Heavy metal,,02,Technical and Occupational Products,19,Heavy metal,0401,Cadmium,1,0,4
+10567,Other,//Products//Technical and Occupational Products//Heavy metal,,02,Technical and Occupational Products,19,Heavy metal,0402,Other,1,0,4
+10568,Ink: Black color,//Products//Technical and Occupational Products//Ink,,02,Technical and Occupational Products,20,Ink,0101,Ink: Black color,1,0,4
+10569,Ink: Other colos,//Products//Technical and Occupational Products//Ink,,02,Technical and Occupational Products,20,Ink,0102,Ink: Other colos,1,0,4
+10570,Caustic agent,//Products//Technical and Occupational Products//Jewery cleaner,,02,Technical and Occupational Products,21,Jewery cleaner,0101,Caustic agent,1,0,4
+10571,Detergent,//Products//Technical and Occupational Products//Jewery cleaner,,02,Technical and Occupational Products,21,Jewery cleaner,0201,Detergent,1,0,4
+10572,Irritant,//Products//Technical and Occupational Products//Jewery cleaner,,02,Technical and Occupational Products,21,Jewery cleaner,0301,Irritant,1,0,4
+10573,Other,//Products//Technical and Occupational Products//Jewery cleaner,,02,Technical and Occupational Products,21,Jewery cleaner,0401,Other,1,0,4
+10574,Unknown,//Products//Technical and Occupational Products//Jewery cleaner,,02,Technical and Occupational Products,21,Jewery cleaner,0501,Unknown,1,0,4
+10575,Lubricant oil (Exclude automotive),//Products//Technical and Occupational Products//Lubricant oil (Exclude automotive),,02,Technical and Occupational Products,22,Lubricant oil (Exclude automotive),0101,Lubricant oil (Exclude automotive),1,0,4
+10576,Aerosol,//Products//Technical and Occupational Products//Paint,,02,Technical and Occupational Products,23,Paint,0101,Aerosol,1,0,4
+10577,Water based,//Products//Technical and Occupational Products//Paint,,02,Technical and Occupational Products,23,Paint,0201,Water based,1,0,4
+10578,Oil based,//Products//Technical and Occupational Products//Paint,,02,Technical and Occupational Products,23,Paint,0301,Oil based,1,0,4
+10579,Solvent based,//Products//Technical and Occupational Products//Paint,,02,Technical and Occupational Products,23,Paint,0401,Solvent based,1,0,4
+10580,Unknown,//Products//Technical and Occupational Products//Paint,,02,Technical and Occupational Products,23,Paint,0501,Unknown,1,0,4
+11119,Mold and  Algae,//Products//Technical and Occupational Products//Paint,,02,Technical and Occupational Products,23,Paint,3014,Mold and  Algae,1,0,4
+10581,Freon,//Products//Technical and Occupational Products//Refrigerants,,02,Technical and Occupational Products,24,Refrigerants,0101,Freon,1,0,4
+10582,Ammonia,//Products//Technical and Occupational Products//Refrigerants,,02,Technical and Occupational Products,24,Refrigerants,0201,Ammonia,1,0,4
+10583,Carbon monoxide,//Products//Technical and Occupational Products//Refrigerants,,02,Technical and Occupational Products,24,Refrigerants,0301,Carbon monoxide,1,0,4
+10584,Glycol,//Products//Technical and Occupational Products//Refrigerants,,02,Technical and Occupational Products,24,Refrigerants,0401,Glycol,1,0,4
+10585,Liquid nitrogen,//Products//Technical and Occupational Products//Refrigerants,,02,Technical and Occupational Products,24,Refrigerants,0501,Liquid nitrogen,1,0,4
+10586,Other,//Products//Technical and Occupational Products//Refrigerants,,02,Technical and Occupational Products,24,Refrigerants,0601,Other,1,0,4
+10587,Unknown,//Products//Technical and Occupational Products//Refrigerants,,02,Technical and Occupational Products,24,Refrigerants,0701,Unknown,1,0,4
+10588,Calcium carbide (Acetylene gas),//Products//Technical and Occupational Products//Ripen gas,,02,Technical and Occupational Products,25,Ripen gas,0101,Calcium carbide (Acetylene gas),1,0,4
+10589,Hydrocarbon,//Products//Technical and Occupational Products//Rust Preventive,,02,Technical and Occupational Products,26,Rust Preventive,0101,Hydrocarbon,1,0,4
+10590,Other,//Products//Technical and Occupational Products//Rust Preventive,,02,Technical and Occupational Products,26,Rust Preventive,0102,Other,1,0,4
+10591,Phosphoric acid/ Hydrochloric acid,//Products//Technical and Occupational Products//Rust Remover,,02,Technical and Occupational Products,27,Rust Remover,0101,Phosphoric acid/ Hydrochloric acid,1,0,4
+10592,Hydrofluoric acid,//Products//Technical and Occupational Products//Rust Remover,,02,Technical and Occupational Products,27,Rust Remover,0201,Hydrofluoric acid,1,0,4
+10593,Other,//Products//Technical and Occupational Products//Rust Remover,,02,Technical and Occupational Products,27,Rust Remover,0301,Other,1,0,4
+10594,Unknown,//Products//Technical and Occupational Products//Rust Remover,,02,Technical and Occupational Products,27,Rust Remover,0401,Unknown,1,0,4
+10595,Ammonium bifluoride,//Products//Technical and Occupational Products//Rust Remover,,02,Technical and Occupational Products,27,Rust Remover,0402,Ammonium bifluoride,1,0,4
+10596,Detergent,//Products//Technical and Occupational Products//Rust Remover,,02,Technical and Occupational Products,27,Rust Remover,0403,Detergent,1,0,4
+10597,Hydrocarbon,//Products//Technical and Occupational Products//Rust Remover,,02,Technical and Occupational Products,27,Rust Remover,0404,Hydrocarbon,1,0,4
+10598,Acid formulation,//Products//Technical and Occupational Products//Silver/Gold polishing agents/ Metal cleaner,,02,Technical and Occupational Products,28,Silver/Gold polishing agents/ Metal cleaner,0101,Acid formulation,1,0,4
+10599,Cyanide solution,//Products//Technical and Occupational Products//Silver/Gold polishing agents/ Metal cleaner,,02,Technical and Occupational Products,28,Silver/Gold polishing agents/ Metal cleaner,0201,Cyanide solution,1,0,4
+10600,Detergent/ Irritants,//Products//Technical and Occupational Products//Silver/Gold polishing agents/ Metal cleaner,,02,Technical and Occupational Products,28,Silver/Gold polishing agents/ Metal cleaner,0301,Detergent/ Irritants,1,0,4
+10601,Hydrocarbons,//Products//Technical and Occupational Products//Silver/Gold polishing agents/ Metal cleaner,,02,Technical and Occupational Products,28,Silver/Gold polishing agents/ Metal cleaner,0401,Hydrocarbons,1,0,4
+10602,Other,//Products//Technical and Occupational Products//Silver/Gold polishing agents/ Metal cleaner,,02,Technical and Occupational Products,28,Silver/Gold polishing agents/ Metal cleaner,0501,Other,1,0,4
+10603,Unknown,//Products//Technical and Occupational Products//Silver/Gold polishing agents/ Metal cleaner,,02,Technical and Occupational Products,28,Silver/Gold polishing agents/ Metal cleaner,0601,Unknown,1,0,4
+10604,Acrylonitrile,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0101,Acrylonitrile,1,0,4
+10605,Kerosene,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0201,Kerosene,1,0,4
+10606,Methanol,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0301,Methanol,1,0,4
+10607,Methylene chloride,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0401,Methylene chloride,1,0,4
+10608,Thinner (Toluene/xylene),//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0501,Thinner (Toluene/xylene),1,0,4
+10609,Trichloromethane,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0601,Trichloromethane,1,0,4
+10610,Turpentine,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0701,Turpentine,1,0,4
+10611,Hydrocarbons,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0801,Hydrocarbons,1,0,4
+10612,Unknown,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0901,Unknown,1,0,4
+10613,Others,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,29,Solvent & thinner,0902,Others,1,0,4
+11108,Ketones,//Products//Technical and Occupational Products//Solvent & thinner,,02,Technical and Occupational Products,38,Solvent & thinner,0103,Ketones,1,0,4
+10614,Distilled water,//Products//Technical and Occupational Products//Storage battery fluid,,02,Technical and Occupational Products,30,Storage battery fluid,0101,Distilled water,1,0,4
+10615,Electrolyte solution,//Products//Technical and Occupational Products//Storage battery fluid,,02,Technical and Occupational Products,30,Storage battery fluid,0201,Electrolyte solution,1,0,4
+10616,Sulfuric acid,//Products//Technical and Occupational Products//Storage battery fluid,,02,Technical and Occupational Products,30,Storage battery fluid,0301,Sulfuric acid,1,0,4
+10617,Srong alkali,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0101,Srong alkali,1,0,4
+10618,Strong acid,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0201,Strong acid,1,0,4
+10619,Unknown,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0301,Unknown,1,0,4
+10620,Others,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0302,Others,1,0,4
+10621,Hydrocarbon,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0303,Hydrocarbon,1,0,4
+10622,Irritants,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0304,Irritants,1,0,4
+10623,Oxidizing agents,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0305,Oxidizing agents,1,0,4
+10624,Alcohols,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0306,Alcohols,1,0,4
+10625,Weak acid,//Products//Technical and Occupational Products//Technical & Industrial chemicals,,02,Technical and Occupational Products,31,Technical & Industrial chemicals,0307,Weak acid,1,0,4
+10626,Hydrogen cyanide,//Products//Technical and Occupational Products//Toxic gas,,02,Technical and Occupational Products,32,Toxic gas,0101,Hydrogen cyanide,1,0,4
+10627,Chlorine,//Products//Technical and Occupational Products//Toxic gas,,02,Technical and Occupational Products,32,Toxic gas,0201,Chlorine,1,0,4
+10628,Nitrogen,//Products//Technical and Occupational Products//Toxic gas,,02,Technical and Occupational Products,32,Toxic gas,0301,Nitrogen,1,0,4
+10629,Other,//Products//Technical and Occupational Products//Toxic gas,,02,Technical and Occupational Products,32,Toxic gas,0401,Other,1,0,4
+10630,Unknown,//Products//Technical and Occupational Products//Toxic gas,,02,Technical and Occupational Products,32,Toxic gas,0501,Unknown,1,0,4
+11101,Hydrogen sulfide,//Products//Technical and Occupational Products//Toxic gas,,02,Technical and Occupational Products,38,Toxic gas,0102,Hydrogen sulfide,1,0,4
+10631,Other groups,//Products//Technical and Occupational Products//Other groups,,02,Technical and Occupational Products,33,Other groups,0101,Other groups,1,0,4
+10632,Unknown chemicals,//Products//Technical and Occupational Products//Unknown chemicals,,02,Technical and Occupational Products,34,Unknown chemicals,0101,Unknown chemicals,1,0,4
+10633,Solvent,//Products//Technical and Occupational Products//Cleaning agent for elevator (Lift),,02,Technical and Occupational Products,35,Cleaning agent for elevator (Lift),0002,Solvent,1,0,4
+10634,Detergent,//Products//Technical and Occupational Products//Cleaning agent for elevator (Lift),,02,Technical and Occupational Products,35,Cleaning agent for elevator (Lift),0003,Detergent,1,0,4
+10635,Unknown,//Products//Technical and Occupational Products//Cleaning agent for elevator (Lift),,02,Technical and Occupational Products,35,Cleaning agent for elevator (Lift),0004,Unknown,1,0,4
+10636,Hydrocarbon,//Products//Technical and Occupational Products//Ink: Solvent,,02,Technical and Occupational Products,36,Ink: Solvent,0002,Hydrocarbon,1,0,4
+10637,Calcium,//Products//Technical and Occupational Products//Concrete: Waterproof Coating,,02,Technical and Occupational Products,37,Concrete: Waterproof Coating,0002,Calcium,1,0,4
+10638,Polyurethane acrylic,//Products//Technical and Occupational Products//Concrete: Waterproof Coating,,02,Technical and Occupational Products,37,Concrete: Waterproof Coating,0003,Polyurethane acrylic,1,0,4
+10639,Unknown,//Products//Technical and Occupational Products//Concrete: Waterproof Coating,,02,Technical and Occupational Products,37,Concrete: Waterproof Coating,0004,Unknown,1,0,4
+10640,Others,//Products//Technical and Occupational Products//Concrete: Waterproof Coating,,02,Technical and Occupational Products,37,Concrete: Waterproof Coating,0005,Others,1,0,4
+10641,Methamphetamine,//Products//Recreational and Abused Agents//Amphetamine and derivatives,,03,Recreational and Abused Agents,01,Amphetamine and derivatives,0101,Methamphetamine,1,0,4
+10642,Ecstasy (MDMA),//Products//Recreational and Abused Agents//Amphetamine and derivatives,,03,Recreational and Abused Agents,01,Amphetamine and derivatives,0201,Ecstasy (MDMA),1,0,4
+10643,Love drug (MDA),//Products//Recreational and Abused Agents//Amphetamine and derivatives,,03,Recreational and Abused Agents,01,Amphetamine and derivatives,0301,Love drug (MDA),1,0,4
+10644,Others,//Products//Recreational and Abused Agents//Amphetamine and derivatives,,03,Recreational and Abused Agents,01,Amphetamine and derivatives,0401,Others,1,0,4
+10645,Heroin,//Products//Recreational and Abused Agents//Opiods,,03,Recreational and Abused Agents,02,Opiods,0101,Heroin,1,0,4
+10646,Opium,//Products//Recreational and Abused Agents//Opiods,,03,Recreational and Abused Agents,02,Opiods,0201,Opium,1,0,4
+10647,Unknown,//Products//Recreational and Abused Agents//Opiods,,03,Recreational and Abused Agents,02,Opiods,0202,Unknown,1,0,4
+10648,LSD,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0101,LSD,1,0,4
+10649,Ketamine,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0201,Ketamine,1,0,4
+10650,Phencyclidine (PCP),//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0301,Phencyclidine (PCP),1,0,4
+10651,GHB and precusors,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0401,GHB and precusors,1,0,4
+10652,Marijuana,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0501,Marijuana,1,0,4
+10653,Kratom,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0601,Kratom,1,0,4
+10654,Barbiturate: secobarbital,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0602,Barbiturate: secobarbital,1,0,4
+10655,Unknown,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0603,Unknown,1,0,4
+10656,Others,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0604,Others,1,0,4
+10657,Benzodiazepine,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0605,Benzodiazepine,1,0,4
+10658,Opiods,//Products//Recreational and Abused Agents//Psychoactive drugs,,03,Recreational and Abused Agents,03,Psychoactive drugs,0606,Opiods,1,0,4
+10659,Cocaine,//Products//Recreational and Abused Agents//Cocaine,,03,Recreational and Abused Agents,04,Cocaine,0101,Cocaine,1,0,4
+10660,Other,//Products//Recreational and Abused Agents//Aphrodisiac: spanish fly,,03,Recreational and Abused Agents,05,Aphrodisiac: spanish fly,0101,Other,1,0,4
+10661,Alcohol beverages: Ethanol,//Products//Recreational and Abused Agents//Beverages,,03,Recreational and Abused Agents,06,Beverages,0101,Alcohol beverages: Ethanol,1,0,4
+10662,Other beverages,//Products//Recreational and Abused Agents//Beverages,,03,Recreational and Abused Agents,06,Beverages,0102,Other beverages,1,0,4
+10663,Alcohol beverages:Methanol adulterate,//Products//Recreational and Abused Agents//Beverages,,03,Recreational and Abused Agents,06,Beverages,0103,Alcohol beverages:Methanol adulterate,1,0,4
+10664,Solvents:Toluene (Glue sniffing),//Products//Recreational and Abused Agents//Inhalation of abuse,,03,Recreational and Abused Agents,07,Inhalation of abuse,0101,Solvents:Toluene (Glue sniffing),1,0,4
+10665,Solvents: Thinner,//Products//Recreational and Abused Agents//Inhalation of abuse,,03,Recreational and Abused Agents,07,Inhalation of abuse,0102,Solvents: Thinner,1,0,4
+10666,Other solvents,//Products//Recreational and Abused Agents//Inhalation of abuse,,03,Recreational and Abused Agents,07,Inhalation of abuse,0103,Other solvents,1,0,4
+10667,Gases/Aerosols: Nitrous oxide,//Products//Recreational and Abused Agents//Inhalation of abuse,,03,Recreational and Abused Agents,07,Inhalation of abuse,0104,Gases/Aerosols: Nitrous oxide,1,0,4
+10668,Gases/Aerosols: Butane,//Products//Recreational and Abused Agents//Inhalation of abuse,,03,Recreational and Abused Agents,07,Inhalation of abuse,0105,Gases/Aerosols: Butane,1,0,4
+10669,Gases/Aerosols: others,//Products//Recreational and Abused Agents//Inhalation of abuse,,03,Recreational and Abused Agents,07,Inhalation of abuse,0106,Gases/Aerosols: others,1,0,4
+10670,"Alkyl nitrites: Amyl nitrite, Isobutyl nitrite",//Products//Recreational and Abused Agents//Inhalation of abuse,,03,Recreational and Abused Agents,07,Inhalation of abuse,0107,"Alkyl nitrites: Amyl nitrite, Isobutyl nitrite",1,0,4
+10671,Nicotine,//Products//Recreational and Abused Agents//Others,,03,Recreational and Abused Agents,08,Others,0101,Nicotine,1,0,4
+10672,Others,//Products//Recreational and Abused Agents//Others,,03,Recreational and Abused Agents,08,Others,0201,Others,1,0,4
+10673,Unknown,//Products//Recreational and Abused Agents//Unknown,,03,Recreational and Abused Agents,09,Unknown,0101,Unknown,1,0,4
+10674,Nicotine,//Products//Recreational and Abused Agents//Cigarette,,03,Recreational and Abused Agents,10,Cigarette,0002,Nicotine,1,0,4
+10675,Others,//Products//Recreational and Abused Agents//Cigarette,,03,Recreational and Abused Agents,10,Cigarette,0003,Others,1,0,4
+10676,GHB,//Products//Recreational and Abused Agents//GHB and related agents,,03,Recreational and Abused Agents,12,GHB and related agents,0002,GHB,1,0,4
+10677,GHB precusor,//Products//Recreational and Abused Agents//GHB and related agents,,03,Recreational and Abused Agents,12,GHB and related agents,0003,GHB precusor,1,0,4
+10678,Cyanogenic glycoside,//Products//Plant Toxins / Poisonous Plants//Plant,,04,Plant Toxins / Poisonous Plants,01,Plant,0101,Cyanogenic glycoside,1,0,4
+10679,Cardiogenic glycoside,//Products//Plant Toxins / Poisonous Plants//Plant,,04,Plant Toxins / Poisonous Plants,01,Plant,0201,Cardiogenic glycoside,1,0,4
+10680,Toxalbumin,//Products//Plant Toxins / Poisonous Plants//Plant,,04,Plant Toxins / Poisonous Plants,01,Plant,0301,Toxalbumin,1,0,4
+10681,Oxalate crystal,//Products//Plant Toxins / Poisonous Plants//Plant,,04,Plant Toxins / Poisonous Plants,01,Plant,0401,Oxalate crystal,1,0,4
+10682,"Tropane Alkaloids: atropine, hyoscyamine, etc.",//Products//Plant Toxins / Poisonous Plants//Plant,,04,Plant Toxins / Poisonous Plants,01,Plant,0501,"Tropane Alkaloids: atropine, hyoscyamine, etc.",1,0,4
+10683,Others,//Products//Plant Toxins / Poisonous Plants//Plant,,04,Plant Toxins / Poisonous Plants,01,Plant,0601,Others,1,0,4
+10684,Unknown,//Products//Plant Toxins / Poisonous Plants//Plant,,04,Plant Toxins / Poisonous Plants,01,Plant,0701,Unknown,1,0,4
+10685,Rotenone,//Products//Plant Toxins / Poisonous Plants//Plant,,04,Plant Toxins / Poisonous Plants,01,Plant,0702,Rotenone,1,0,4
+10686,Amatoxins,//Products//Plant Toxins / Poisonous Plants//Mushroom: Cyclopeptides,,04,Plant Toxins / Poisonous Plants,02,Mushroom: Cyclopeptides,0101,Amatoxins,1,0,4
+10687,Cholinergic,//Products//Plant Toxins / Poisonous Plants//Mushroom: Muscarine,,04,Plant Toxins / Poisonous Plants,03,Mushroom: Muscarine,0101,Cholinergic,1,0,4
+10688,Anticholinergic,//Products//Plant Toxins / Poisonous Plants//Mushroom: Muscimol,,04,Plant Toxins / Poisonous Plants,04,Mushroom: Muscimol,0101,Anticholinergic,1,0,4
+10689,Mushroom: Psilocybin,//Products//Plant Toxins / Poisonous Plants//Mushroom: Psilocybin,,04,Plant Toxins / Poisonous Plants,05,Mushroom: Psilocybin,0101,Mushroom: Psilocybin,1,0,4
+10690,Mushroom: GI toxin,//Products//Plant Toxins / Poisonous Plants//Mushroom: GI toxin,,04,Plant Toxins / Poisonous Plants,06,Mushroom: GI toxin,0101,Mushroom: GI toxin,1,0,4
+10691,Unknown,//Products//Plant Toxins / Poisonous Plants//Mushroom:Unknown,,04,Plant Toxins / Poisonous Plants,07,Mushroom:Unknown,3023,Unknown,1,0,4
+10692,Unknown,//Products//Plant Toxins / Poisonous Plants//Mushroom: Gyromitra,,04,Plant Toxins / Poisonous Plants,08,Mushroom: Gyromitra,3019,Unknown,1,0,4
+10693,Mushroom induced rhabdomyolysis,//Products//Plant Toxins / Poisonous Plants//Mushroom: Rhabdomyolysis,,04,Plant Toxins / Poisonous Plants,09,Mushroom: Rhabdomyolysis,3016,Mushroom induced rhabdomyolysis,1,0,4
+10694,Induced seizure,//Products//Plant Toxins / Poisonous Plants//Mushroom: Rhabdomyolysis,,04,Plant Toxins / Poisonous Plants,09,Mushroom: Rhabdomyolysis,3017,Induced seizure,1,0,4
+11120,Other,//Products//Plant Toxins / Poisonous Plants//Mushroom: Rhabdomyolysis,,04,Plant Toxins / Poisonous Plants,09,Mushroom: Rhabdomyolysis,3018,Other,1,0,4
+11104,Unknown Snake,//Products//Poisonous and Venomous Animals//Poisonous Snake: Neurotoxin,,05,Poisonous and Venomous Animals,01,Poisonous Snake: Neurotoxin,0501,Unknown Snake,1,0,4
+10695,King Cobra,//Products//Poisonous and Venomous Animals//Poisonous Snake: Neurotoxin,,05,Poisonous and Venomous Animals,01,Poisonous Snake: Neurotoxin,0101,King Cobra,1,0,4
+10696,Cobra,//Products//Poisonous and Venomous Animals//Poisonous Snake: Neurotoxin,,05,Poisonous and Venomous Animals,01,Poisonous Snake: Neurotoxin,0201,Cobra,1,0,4
+10697,Malayan Krait,//Products//Poisonous and Venomous Animals//Poisonous Snake: Neurotoxin,,05,Poisonous and Venomous Animals,01,Poisonous Snake: Neurotoxin,0301,Malayan Krait,1,0,4
+10698,Banded Krait,//Products//Poisonous and Venomous Animals//Poisonous Snake: Neurotoxin,,05,Poisonous and Venomous Animals,01,Poisonous Snake: Neurotoxin,0401,Banded Krait,1,0,4
+10699,Spitting cobra,//Products//Poisonous and Venomous Animals//Poisonous Snake: Neurotoxin,,05,Poisonous and Venomous Animals,01,Poisonous Snake: Neurotoxin,0402,Spitting cobra,1,0,4
+10700,Others,//Products//Poisonous and Venomous Animals//Poisonous Snake: Neurotoxin,,05,Poisonous and Venomous Animals,01,Poisonous Snake: Neurotoxin,0403,Others,1,0,4
+10701,Russells Viper,//Products//Poisonous and Venomous Animals//Poisonous Snake: Hematotoxin,,05,Poisonous and Venomous Animals,02,Poisonous Snake: Hematotoxin,0101,Russell's Viper,1,0,4
+10702,Green Pit viper,//Products//Poisonous and Venomous Animals//Poisonous Snake: Hematotoxin,,05,Poisonous and Venomous Animals,02,Poisonous Snake: Hematotoxin,0201,Green Pit viper,1,0,4
+10703,Malayan Pit Viper,//Products//Poisonous and Venomous Animals//Poisonous Snake: Hematotoxin,,05,Poisonous and Venomous Animals,02,Poisonous Snake: Hematotoxin,0301,Malayan Pit Viper,1,0,4
+10704,Unknown,//Products//Poisonous and Venomous Animals//Poisonous Snake: Hematotoxin,,05,Poisonous and Venomous Animals,02,Poisonous Snake: Hematotoxin,0302,Unknown,1,0,4
+10705,Sea snake,//Products//Poisonous and Venomous Animals//Poisonous Snake: Myotoxin,,05,Poisonous and Venomous Animals,03,Poisonous Snake: Myotoxin,0101,Sea snake,1,0,4
+10706,Poisonous Snake: Unknown,//Products//Poisonous and Venomous Animals//Poisonous Snake: Unknown,,05,Poisonous and Venomous Animals,04,Poisonous Snake: Unknown,0101,Poisonous Snake: Unknown,1,0,4
+10707,Wasp,//Products//Poisonous and Venomous Animals//Poisonous Insect: Hymenoptera,,05,Poisonous and Venomous Animals,05,Poisonous Insect: Hymenoptera,0101,Wasp,1,0,4
+10708,Hornet,//Products//Poisonous and Venomous Animals//Poisonous Insect: Hymenoptera,,05,Poisonous and Venomous Animals,05,Poisonous Insect: Hymenoptera,0201,Hornet,1,0,4
+10709,Honey Bee,//Products//Poisonous and Venomous Animals//Poisonous Insect: Hymenoptera,,05,Poisonous and Venomous Animals,05,Poisonous Insect: Hymenoptera,0301,Honey Bee,1,0,4
+10710,Centipedes,//Products//Poisonous and Venomous Animals//Poisonous Insect: Others,,05,Poisonous and Venomous Animals,06,Poisonous Insect: Others,0101,Centipedes,1,0,4
+10711,Scorpion,//Products//Poisonous and Venomous Animals//Poisonous Insect: Others,,05,Poisonous and Venomous Animals,06,Poisonous Insect: Others,0201,Scorpion,1,0,4
+10712,Spider,//Products//Poisonous and Venomous Animals//Poisonous Insect: Others,,05,Poisonous and Venomous Animals,06,Poisonous Insect: Others,0301,Spider,1,0,4
+10713,Others,//Products//Poisonous and Venomous Animals//Poisonous Insect: Others,,05,Poisonous and Venomous Animals,06,Poisonous Insect: Others,0401,Others,1,0,4
+10714,Unknown,//Products//Poisonous and Venomous Animals//Poisonous Insect: Others,,05,Poisonous and Venomous Animals,06,Poisonous Insect: Others,0501,Unknown,1,0,4
+10715,Poisonous Insect: Unknown,//Products//Poisonous and Venomous Animals//Poisonous Insect: Unknown,,05,Poisonous and Venomous Animals,07,Poisonous Insect: Unknown,0101,Poisonous Insect: Unknown,1,0,4
+10716,Puffer fish,//Products//Poisonous and Venomous Animals//Tetrodotoxin,,05,Poisonous and Venomous Animals,08,Tetrodotoxin,0101,Puffer fish,1,0,4
+10717,Horseshoe crab,//Products//Poisonous and Venomous Animals//Tetrodotoxin,,05,Poisonous and Venomous Animals,08,Tetrodotoxin,0201,Horseshoe crab,1,0,4
+10718,Unknown,//Products//Poisonous and Venomous Animals//Tetrodotoxin,,05,Poisonous and Venomous Animals,08,Tetrodotoxin,0202,Unknown,1,0,4
+11110,Blue ringed octopus,//Products//Poisonous and Venomous Animals//Tetrodotoxin,,05,Poisonous and Venomous Animals,08,Tetrodotoxin,3006,Blue ringed octopus,1,0,4
+10719,Jelly fish,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Coelenterate,,05,Poisonous and Venomous Animals,09,Aquatic envenomation: Coelenterate,0101,Jelly fish,1,0,4
+10720,Fire coral,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Coelenterate,,05,Poisonous and Venomous Animals,09,Aquatic envenomation: Coelenterate,0201,Fire coral,1,0,4
+10721,Sea anemone,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Coelenterate,,05,Poisonous and Venomous Animals,09,Aquatic envenomation: Coelenterate,0301,Sea anemone,1,0,4
+10722,Others,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Coelenterate,,05,Poisonous and Venomous Animals,09,Aquatic envenomation: Coelenterate,0701,Others,1,0,4
+10723,Stingrays,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Fish stings,,05,Poisonous and Venomous Animals,10,Aquatic envenomation: Fish stings,0101,Stingrays,1,0,4
+10724,Lion fish,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Fish stings,,05,Poisonous and Venomous Animals,10,Aquatic envenomation: Fish stings,0201,Lion fish,1,0,4
+10725,Stone fish,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Fish stings,,05,Poisonous and Venomous Animals,10,Aquatic envenomation: Fish stings,0301,Stone fish,1,0,4
+10726,Catfish,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Fish stings,,05,Poisonous and Venomous Animals,10,Aquatic envenomation: Fish stings,0302,Catfish,1,0,4
+10727,Sea Urchin,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Sea Urchin & Cone snails,,05,Poisonous and Venomous Animals,11,Aquatic envenomation: Sea Urchin & Cone snails,0101,Sea Urchin,1,0,4
+10728,Cone shell,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Sea Urchin & Cone snails,,05,Poisonous and Venomous Animals,11,Aquatic envenomation: Sea Urchin & Cone snails,0201,Cone shell,1,0,4
+10729,Others,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Sea Urchin & Cone snails,,05,Poisonous and Venomous Animals,11,Aquatic envenomation: Sea Urchin & Cone snails,0301,Others,1,0,4
+10730,Others,//Products//Poisonous and Venomous Animals//Others,,05,Poisonous and Venomous Animals,12,Others,0101,Others,1,0,4
+10731,Unknown,//Products//Poisonous and Venomous Animals//Unknown,,05,Poisonous and Venomous Animals,13,Unknown,0101,Unknown,1,0,4
+10732,Red-necked keelback,//Products//Poisonous and Venomous Animals//Poisonous Snake: Back-fanged,,05,Poisonous and Venomous Animals,14,Poisonous Snake: Back-fanged,0001,Red-necked keelback,1,0,4
+10733,Others,//Products//Poisonous and Venomous Animals//Poisonous Snake: Back-fanged,,05,Poisonous and Venomous Animals,14,Poisonous Snake: Back-fanged,0002,Others,1,0,4
+10734,Xenopeltis unicolor,//Products//Poisonous and Venomous Animals//Poisonous Snake: Back-fanged,,05,Poisonous and Venomous Animals,14,Poisonous Snake: Back-fanged,0003,Xenopeltis unicolor,1,0,4
+10735,Toad,//Products//Poisonous and Venomous Animals//Cardiac glycoside,,05,Poisonous and Venomous Animals,15,Cardiac glycoside,0002,Toad,1,0,4
+10736,Unknown animal,//Products//Poisonous and Venomous Animals//Poisonous animal: Unknown,,05,Poisonous and Venomous Animals,16,Poisonous animal: Unknown,0002,Unknown animal,1,0,4
+10737,Latrodectus,//Products//Poisonous and Venomous Animals//Poisonous insect: spider,,05,Poisonous and Venomous Animals,18,Poisonous insect: spider,0002,Latrodectus,1,0,4
+10738,nonvenomous,//Products//Poisonous and Venomous Animals//Poisonous insect: spider,,05,Poisonous and Venomous Animals,18,Poisonous insect: spider,0003,nonvenomous,1,0,4
+10739,Other venomous spider,//Products//Poisonous and Venomous Animals//Poisonous insect: spider,,05,Poisonous and Venomous Animals,18,Poisonous insect: spider,0004,Other venomous spider,1,0,4
+11097,Unknown venomous spider,//Products//Poisonous and Venomous Animals//Poisonous insect: spider,,05,Poisonous and Venomous Animals,18,Poisonous insect: spider,0005,Unknown venomous spider,1,0,4
+10740,Crown-of-the throns starfish,//Products//Poisonous and Venomous Animals//Aquatic envenomation: Echinoderms,,05,Poisonous and Venomous Animals,19,Aquatic envenomation: Echinoderms,0002,Crown-of-the throns starfish,1,0,4
+10741,Toxicants,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,01,Toxicants in Foods,0101,Toxicants,1,0,4
+10742,Herbicide: Paraquat,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,01,Toxicants in Foods,0102,Herbicide: Paraquat,1,0,4
+10743,Herbicide: unknown,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,01,Toxicants in Foods,0103,Herbicide: unknown,1,0,4
+10744,Shellfish,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,02,Food poisoning,0101,Shellfish,1,0,4
+10745,Food-borne,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,02,Food poisoning,0201,Food-borne,1,0,4
+10746,Botulism,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,02,Food poisoning,0301,Botulism,1,0,4
+10747,Melamine,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,02,Food poisoning,0302,Melamine,1,0,4
+11091,Cyanide,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,02,Food poisoning,0304,Cyanide,1,0,4
+10748,Unknown,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,03,Unknown,0101,Unknown,1,0,4
+10749,Others,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,04,Others,0101,Others,1,0,4
+10750,Organophosphate or Carbamate,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,05,Insecticide contamination,0002,Organophosphate or Carbamate,1,0,4
+10751,Others,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,05,Insecticide contamination,0003,Others,1,0,4
+10752,Carbamate,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,05,Insecticide contamination,0004,Carbamate,1,0,4
+10753,Glyphosate,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,06,Herbicide contamination,0002,Glyphosate,1,0,4
+10754,Unknown,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms,,06,Food Toxins and Contaminations,06,Herbicide contamination,0003,Unknown,1,0,4
+10755,Cyanoacrylate,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,01,Adhesive agent,0101,Cyanoacrylate,1,0,4
+10756,Other,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,01,Adhesive agent,0201,Other,1,0,4
+10757,Unknown,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,01,Adhesive agent,0301,Unknown,1,0,4
+10758,Ethanol/Fragrance,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,02,Air refresher,0101,Ethanol/Fragrance,1,0,4
+10759,Non/Anionic detergent,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,03,Cleaning agent : dishwashing (manual),0101,Non/Anionic detergent,1,0,4
+10760,Other,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,03,Cleaning agent : dishwashing (manual),0102,Other,1,0,4
+10761,Nitrite,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,04,Cleaning agent for calces remover,0101,Nitrite,1,0,4
+10762,Other,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,04,Cleaning agent for calces remover,0201,Other,1,0,4
+10763,Unknown,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,04,Cleaning agent for calces remover,0301,Unknown,1,0,4
+10764,Non/Anionic detergents,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,05,Cleaning agent for vegetable,0101,Non/Anionic detergents,1,0,4
+10765,Unknown,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,05,Cleaning agent for vegetable,0102,Unknown,1,0,4
+10766,Other,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,05,Cleaning agent for vegetable,0103,Other,1,0,4
+10767,Proteolytic enzyme,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,06,Cleaning agent for contact lens,0101,Proteolytic enzyme,1,0,4
+10768,Isotonic solution,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,06,Cleaning agent for contact lens,0102,Isotonic solution,1,0,4
+11116,Other,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,06,Cleaning agent for contact lens,3011,Other,1,0,4
+10769,Irritant: hypochlorite,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0101,Irritant: hypochlorite,1,0,4
+10770,Cationic detergent,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0201,Cationic detergent,1,0,4
+10771,Non/anionic detergent,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0301,Non/anionic detergent,1,0,4
+10772,Irritant: CaCO3,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0401,Irritant: CaCO3,1,0,4
+10773,Other,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0501,Other,1,0,4
+10774,Unknown,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0601,Unknown,1,0,4
+10775,Pheno group: cresol,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0602,Pheno group: cresol,1,0,4
+10776,Hydrocarbons,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0603,Hydrocarbons,1,0,4
+10777,Alcohols: isopropanol,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0604,Alcohols: isopropanol,1,0,4
+10778,Chlorine and related agents,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0605,Chlorine and related agents,1,0,4
+10779,Amphoteric surfactant,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,07,Cleaning agent for floor,0606,Amphoteric surfactant,1,0,4
+10780,Wax/ Silicone,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0101,Wax/ Silicone,1,0,4
+10781,Amyl acetate,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0201,Amyl acetate,1,0,4
+10782,Petroleum distillates,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0301,Petroleum distillates,1,0,4
+10783,Detergent,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0401,Detergent,1,0,4
+10784,Other,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0501,Other,1,0,4
+10785,Unknown,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0601,Unknown,1,0,4
+10786,Irritant: Hypochlorite,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0602,Irritant: Hypochlorite,1,0,4
+10787,Phenol group: cresol,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0603,Phenol group: cresol,1,0,4
+10788,Phenol group: cresol,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0604,Phenol group: cresol,1,0,4
+10789,Phenol group: cresol,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,08,Polishing/ Coating agent: floor,0605,Phenol group: cresol,1,0,4
+10790,Isopropyl alcohol,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,09,Cleaning agent for glass,0101,Isopropyl alcohol,1,0,4
+10791,Alkali,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,09,Cleaning agent for glass,0102,Alkali,1,0,4
+10792,Detergent,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,09,Cleaning agent for glass,0103,Detergent,1,0,4
+10793,Unknown,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,09,Cleaning agent for glass,0104,Unknown,1,0,4
+10794,Hydrocarbons,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,09,Cleaning agent for glass,0105,Hydrocarbons,1,0,4
+10795,Other,//Products//Household Products//Aquatic envenomation: Echinoderms,,07,Household Products,09,Cleaning agent for glass,0106,Other,1,0,4
+10796,Bleaching: hypochlorite,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0101,Bleaching: hypochlorite,1,0,4
+10797,Detergent: Non/Anionic detergent,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0201,Detergent: Non/Anionic detergent,1,0,4
+10798,Fabric softener,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0301,Fabric softener,1,0,4
+10799,Fabric starch,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0401,Fabric starch,1,0,4
+10800,Fabric stain remover,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0501,Fabric stain remover,1,0,4
+10801,Other,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0601,Other,1,0,4
+10802,Unknown,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0701,Unknown,1,0,4
+10803,Fabric refresher: Cationic,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0702,Fabric refresher: Cationic,1,0,4
+10804,Detergent: Others,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0703,Detergent: Others,1,0,4
+10805,Bleaching: corrosive alkali,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0704,Bleaching: corrosive alkali,1,0,4
+10806,Bleaching: detergent,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0705,Bleaching: detergent,1,0,4
+10807,Bleaching: others,//Products//Household Products//Cleaning agent for laundry,,07,Household Products,10,Cleaning agent for laundry,0706,Bleaching: others,1,0,4
+10808,Non/anionic detergent,//Products//Household Products//Cleaning agent for bottle or milk bottle,,07,Household Products,11,Cleaning agent for bottle or milk bottle,0101,Non/anionic detergent,1,0,4
+10809,Cleaning agent for swimming pool,//Products//Household Products//Cleaning agent for swimming pool,,07,Household Products,12,Cleaning agent for swimming pool,0101,Cleaning agent for swimming pool,1,0,4
+10810,Cleaning agent for tape recorder,//Products//Household Products//Cleaning agent for tape recorder,,07,Household Products,13,Cleaning agent for tape recorder,0101,Cleaning agent for tape recorder,1,0,4
+10811,Acid formulation,//Products//Household Products//Cleaning agent for toilet,,07,Household Products,14,Cleaning agent for toilet,0101,Acid formulation,1,0,4
+10812,Cationic & Non/anionic detergent,//Products//Household Products//Cleaning agent for toilet,,07,Household Products,14,Cleaning agent for toilet,0201,Cationic & Non/anionic detergent,1,0,4
+10813,Non/anionic detergent,//Products//Household Products//Cleaning agent for toilet,,07,Household Products,14,Cleaning agent for toilet,0301,Non/anionic detergent,1,0,4
+10814,Irritant e.g. hypochlorite,//Products//Household Products//Cleaning agent for toilet,,07,Household Products,14,Cleaning agent for toilet,0401,Irritant e.g. hypochlorite,1,0,4
+10815,Other,//Products//Household Products//Cleaning agent for toilet,,07,Household Products,14,Cleaning agent for toilet,0501,Other,1,0,4
+10816,Unknown,//Products//Household Products//Cleaning agent for toilet,,07,Household Products,14,Cleaning agent for toilet,0601,Unknown,1,0,4
+10817,Alkali,//Products//Household Products//Cleaning agent for toilet,,07,Household Products,14,Cleaning agent for toilet,0602,Alkali,1,0,4
+11123,Glycol ether,//Products//Household Products//Cleaning agent for toilet,,07,Household Products,14,Cleaning agent for toilet,3021,Glycol ether,1,0,4
+11124,Aromatic alcohol (low toxic),//Products//Household Products//Cleaning agent for toilet,low toxic,07,Household Products,14,Cleaning agent for toilet,3022,Aromatic alcohol (low toxic),1,0,4
+10818,Detergent,//Products//Household Products//Cleaning agent multipurpose cleaner,,07,Household Products,15,Cleaning agent multipurpose cleaner,0101,Detergent,1,0,4
+10819,Others,//Products//Household Products//Cleaning agent multipurpose cleaner,,07,Household Products,15,Cleaning agent multipurpose cleaner,0201,Others,1,0,4
+10820,Unknown,//Products//Household Products//Cleaning agent multipurpose cleaner,,07,Household Products,15,Cleaning agent multipurpose cleaner,0301,Unknown,1,0,4
+10821,Cold pack content,//Products//Household Products//Cold pack content,,07,Household Products,16,Cold pack content,0101,Cold pack content,1,0,4
+10822,Cationic detergent,//Products//Household Products//Antiseptic and Disinfectant for household purpose,,07,Household Products,17,Antiseptic and Disinfectant for household purpose,0101,Cationic detergent,1,0,4
+10823,Aldehyde: Glutaraldehyde,//Products//Household Products//Antiseptic and Disinfectant for household purpose,,07,Household Products,17,Antiseptic and Disinfectant for household purpose,0201,Aldehyde: Glutaraldehyde,1,0,4
+10824,Phenol,//Products//Household Products//Antiseptic and Disinfectant for household purpose,,07,Household Products,17,Antiseptic and Disinfectant for household purpose,0301,Phenol,1,0,4
+10825,Alcohol,//Products//Household Products//Antiseptic and Disinfectant for household purpose,,07,Household Products,17,Antiseptic and Disinfectant for household purpose,0401,Alcohol,1,0,4
+10826,Other,//Products//Household Products//Antiseptic and Disinfectant for household purpose,,07,Household Products,17,Antiseptic and Disinfectant for household purpose,0501,Other,1,0,4
+10827,Unknown,//Products//Household Products//Antiseptic and Disinfectant for household purpose,,07,Household Products,17,Antiseptic and Disinfectant for household purpose,0601,Unknown,1,0,4
+10828,Alkali,//Products//Household Products//Antiseptic and Disinfectant for household purpose,,07,Household Products,17,Antiseptic and Disinfectant for household purpose,0602,Alkali,1,0,4
+10829,Wax,//Products//Household Products//Polishing agent: leather,,07,Household Products,18,Polishing agent: leather,0101,Wax,1,0,4
+10830,Solvent,//Products//Household Products//Polishing agent: leather,,07,Household Products,18,Polishing agent: leather,0201,Solvent,1,0,4
+10831,Other,//Products//Household Products//Polishing agent: leather,,07,Household Products,18,Polishing agent: leather,0301,Other,1,0,4
+10832,Unknown,//Products//Household Products//Polishing agent: leather,,07,Household Products,18,Polishing agent: leather,0401,Unknown,1,0,4
+10833,Moisture absorbent,//Products//Household Products//Moisture absorbent,,07,Household Products,19,Moisture absorbent,0101,Moisture absorbent,1,0,4
+10834,Unknwon,//Products//Household Products//Moisture absorbent,,07,Household Products,19,Moisture absorbent,0102,Unknwon,1,0,4
+10835,Acid formulation,//Products//Household Products//Polishing agent: silver,,07,Household Products,20,Polishing agent: silver,0101,Acid formulation,1,0,4
+10836,Cyanide solution,//Products//Household Products//Polishing agent: silver,,07,Household Products,20,Polishing agent: silver,0201,Cyanide solution,1,0,4
+10837,Detergent,//Products//Household Products//Polishing agent: silver,,07,Household Products,20,Polishing agent: silver,0301,Detergent,1,0,4
+10838,Hydrocarbons,//Products//Household Products//Polishing agent: silver,,07,Household Products,20,Polishing agent: silver,0401,Hydrocarbons,1,0,4
+10839,Other,//Products//Household Products//Polishing agent: silver,,07,Household Products,20,Polishing agent: silver,0501,Other,1,0,4
+10840,Unknown,//Products//Household Products//Polishing agent: silver,,07,Household Products,20,Polishing agent: silver,0601,Unknown,1,0,4
+10841,Alkali formulation,//Products//Household Products//Polishing agent: silver,,07,Household Products,20,Polishing agent: silver,0602,Alkali formulation,1,0,4
+10842,Wax,//Products//Household Products//Polishing agent: multipurpose,,07,Household Products,21,Polishing agent: multipurpose,0101,Wax,1,0,4
+10843,Hydrocarbon,//Products//Household Products//Polishing agent: multipurpose,,07,Household Products,21,Polishing agent: multipurpose,0201,Hydrocarbon,1,0,4
+10844,Other,//Products//Household Products//Polishing agent: multipurpose,,07,Household Products,21,Polishing agent: multipurpose,0301,Other,1,0,4
+10845,Unknown,//Products//Household Products//Polishing agent: multipurpose,,07,Household Products,21,Polishing agent: multipurpose,0401,Unknown,1,0,4
+10846,Acid/Alkali,//Products//Household Products//Polishing agent: multipurpose,,07,Household Products,21,Polishing agent: multipurpose,0402,Acid/Alkali,1,0,4
+10847,Detergent,//Products//Household Products//Polishing agent: multipurpose,,07,Household Products,21,Polishing agent: multipurpose,0403,Detergent,1,0,4
+10848,Moth ball (Naphthalene),//Products//Household Products//Repellent/ Deodorant,,07,Household Products,22,Repellent/ Deodorant,0101,Moth ball (Naphthalene),1,0,4
+10849,Paradichlorobenzene (PDCB),//Products//Household Products//Repellent/ Deodorant,,07,Household Products,22,Repellent/ Deodorant,0201,Paradichlorobenzene (PDCB),1,0,4
+10850,Detergent,//Products//Household Products//Repellent/ Deodorant,,07,Household Products,22,Repellent/ Deodorant,0301,Detergent,1,0,4
+10851,Others,//Products//Household Products//Repellent/ Deodorant,,07,Household Products,22,Repellent/ Deodorant,0401,Others,1,0,4
+10852,Unknown,//Products//Household Products//Repellent/ Deodorant,,07,Household Products,22,Repellent/ Deodorant,0501,Unknown,1,0,4
+10853,Essential oils: พิมเสน การบูร,//Products//Household Products//Repellent/ Deodorant,,07,Household Products,22,Repellent/ Deodorant,0502,Essential oils: พิมเสน การบูร,1,0,4
+10854,Hydrocarbon,//Products//Household Products//Rust Preventive agent,,07,Household Products,23,Rust Preventive agent,0101,Hydrocarbon,1,0,4
+10855,Phosphoric acid/ Hydrochloric acid,//Products//Household Products//Rust Remover,,07,Household Products,24,Rust Remover,0101,Phosphoric acid/ Hydrochloric acid,1,0,4
+10856,Hydrofluoric acid,//Products//Household Products//Rust Remover,,07,Household Products,24,Rust Remover,0201,Hydrofluoric acid,1,0,4
+10857,Hydrocarbon,//Products//Household Products//Rust Remover,,07,Household Products,24,Rust Remover,0301,Hydrocarbon,1,0,4
+10858,Other,//Products//Household Products//Rust Remover,,07,Household Products,24,Rust Remover,0401,Other,1,0,4
+10859,Unknown,//Products//Household Products//Rust Remover,,07,Household Products,24,Rust Remover,0501,Unknown,1,0,4
+10860,Elemental Mercury,//Products//Household Products//Thermometer content,,07,Household Products,25,Thermometer content,0101,Elemental Mercury,1,0,4
+11118,Unknown,//Products//Household Products//Thermometer content,,07,Household Products,25,Thermometer content,3013,Unknown,1,0,4
+10861,Hair color,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0101,Hair color,1,0,4
+10862,Hair neutralizer: Bromate,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0201,Hair neutralizer: Bromate,1,0,4
+10863,Hair spray,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0301,Hair spray,1,0,4
+10864,Hair tonic-แก้ผมร่วง,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0401,Hair tonic-แก้ผมร่วง,1,0,4
+10865,Hair shampoo,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0501,Hair shampoo,1,0,4
+10866,Hair waving: Alkali,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0601,Hair waving: Alkali,1,0,4
+10867,Hair neutralizer: Other,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0701,Hair neutralizer: Other,1,0,4
+10868,Hair waving: Unknown,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0801,Hair waving: Unknown,1,0,4
+10869,Hair waving: H2O2,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0802,Hair waving: H2O2,1,0,4
+10870,Hair rebonding: Alkali,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0803,Hair rebonding: Alkali,1,0,4
+10871,Hair rebonding: H2O2,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0804,Hair rebonding: H2O2,1,0,4
+10872,Hair neutralizer: Unknown,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0805,Hair neutralizer: Unknown,1,0,4
+10873,Hair rebonding: Sulfite,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0806,Hair rebonding: Sulfite,1,0,4
+10874,Hair rebonding: Unknown,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0807,Hair rebonding: Unknown,1,0,4
+10875,Hair waving: Sulfite,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0808,Hair waving: Sulfite,1,0,4
+10876,Hair waving: Unknown,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0809,Hair waving: Unknown,1,0,4
+10877,Hair creams and gels,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0810,Hair creams and gels,1,0,4
+10878,Depilatory cream and lotion,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0811,Depilatory cream and lotion,1,0,4
+10879,Hair growth regulator,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0812,Hair growth regulator,1,0,4
+10880,Hair conditioner,//Products//Household Products//Toilet article & cosmetic: hair care products,,07,Household Products,26,Toilet article & cosmetic: hair care products,0813,Hair conditioner,1,0,4
+10881,Others,//Products//Household Products//Toilet article & cosmetic: mouth care,,07,Household Products,27,Toilet article & cosmetic: mouth care,0101,Others,1,0,4
+10882,"Phenol group: chloroxylenol, thymol",//Products//Household Products//Toilet article & cosmetic: mouth care,,07,Household Products,27,Toilet article & cosmetic: mouth care,0102,"Phenol group: chloroxylenol, thymol",1,0,4
+10883,Alcohols,//Products//Household Products//Toilet article & cosmetic: mouth care,,07,Household Products,27,Toilet article & cosmetic: mouth care,0103,Alcohols,1,0,4
+10884,Nail Color,//Products//Household Products//Toilet article & cosmetic: nail,,07,Household Products,28,Toilet article & cosmetic: nail,0101,Nail Color,1,0,4
+10885,Color remover,//Products//Household Products//Toilet article & cosmetic: nail,,07,Household Products,28,Toilet article & cosmetic: nail,0201,Color remover,1,0,4
+10886,Artificial nail products,//Products//Household Products//Toilet article & cosmetic: nail,,07,Household Products,28,Toilet article & cosmetic: nail,0301,Artificial nail products,1,0,4
+10887,Other,//Products//Household Products//Toilet article & cosmetic: nail,,07,Household Products,28,Toilet article & cosmetic: nail,0401,Other,1,0,4
+10888,Unknown,//Products//Household Products//Toilet article & cosmetic: nail,,07,Household Products,28,Toilet article & cosmetic: nail,0501,Unknown,1,0,4
+10889,Nail Coating,//Products//Household Products//Toilet article & cosmetic: nail,,07,Household Products,28,Toilet article & cosmetic: nail,0502,Nail Coating,1,0,4
+10890,Deodorant/Antiperspiration,//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0101,Deodorant/Antiperspiration,1,0,4
+10891,Feminine hygiene,//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0201,Feminine hygiene,1,0,4
+10892,Soap: detergent,//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0301,Soap: detergent,1,0,4
+10893,Body lotion,//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0401,Body lotion,1,0,4
+10894,"Perfume, colognes, body spray",//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0501,"Perfume, colognes, body spray",1,0,4
+10895,Other,//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0601,Other,1,0,4
+10896,Unknown,//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0701,Unknown,1,0,4
+10897,Soap: antiseptics,//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0702,Soap: antiseptics,1,0,4
+10898,Sunscreen,//Products//Household Products//Toilet article & cosmetic: body,,07,Household Products,29,Toilet article & cosmetic: body,0703,Sunscreen,1,0,4
+10899,Toy & Other accessories,//Products//Household Products//Toy & sport accessories,,07,Household Products,30,Toy & sport accessories,0101,Toy & Other accessories,1,0,4
+10900,Alkali formulation,//Products//Household Products//Unplug drain,,07,Household Products,31,Unplug drain,0101,Alkali formulation,1,0,4
+10901,"Microorganism, Enzyme",//Products//Household Products//Unplug drain,,07,Household Products,31,Unplug drain,0201,"Microorganism, Enzyme",1,0,4
+10902,Other,//Products//Household Products//Unplug drain,,07,Household Products,31,Unplug drain,0301,Other,1,0,4
+10903,Unknown,//Products//Household Products//Unplug drain,,07,Household Products,31,Unplug drain,0401,Unknown,1,0,4
+10904,Hypochlorite,//Products//Household Products//Unplug drain,,07,Household Products,31,Unplug drain,0402,Hypochlorite,1,0,4
+10905,Color,//Products//Household Products//Stationary: ink and color,,07,Household Products,32,Stationary: ink and color,0101,Color,1,0,4
+10906,Ink,//Products//Household Products//Stationary: ink and color,,07,Household Products,32,Stationary: ink and color,0201,Ink,1,0,4
+10907,Others,//Products//Household Products//Stationary: ink and color,,07,Household Products,32,Stationary: ink and color,0301,Others,1,0,4
+10908,Miscelleneous,//Products//Household Products//Miscelleneous,,07,Household Products,33,Miscelleneous,0101,Miscelleneous,1,0,4
+10909,Unknown,//Products//Household Products//Unknown,,07,Household Products,34,Unknown,0101,Unknown,1,0,4
+10910,Others,//Products//Household Products//Nontoxic substances,,07,Household Products,35,Nontoxic substances,0101,Others,1,0,4
+10911,Facial soap/foam,//Products//Household Products//Toilet article & cosmetic: face and neck,,07,Household Products,36,Toilet article & cosmetic: face and neck,0002,Facial soap/foam,1,0,4
+10912,Facial toner,//Products//Household Products//Toilet article & cosmetic: face and neck,,07,Household Products,36,Toilet article & cosmetic: face and neck,0003,Facial toner,1,0,4
+10913,Facial lotion/cream,//Products//Household Products//Toilet article & cosmetic: face and neck,,07,Household Products,36,Toilet article & cosmetic: face and neck,0004,Facial lotion/cream,1,0,4
+10914,Other: shave cream,//Products//Household Products//Toilet article & cosmetic: face and neck,,07,Household Products,36,Toilet article & cosmetic: face and neck,0005,Other: shave cream,1,0,4
+11080,Eye products,//Products//Household Products//Toilet article & cosmetic: face and neck,,07,Household Products,36,Toilet article & cosmetic: face and neck,0736,Eye products,1,0,4
+10915,Others,//Products//Household Products//Stationary: Others,,07,Household Products,37,Stationary: Others,0002,Others,1,0,4
+10916,Fragrance,//Products//Household Products//Toilet article & cosmetic: Perfume and Cologne,,07,Household Products,38,Toilet article & cosmetic: Perfume and Cologne,0002,Fragrance,1,0,4
+10917,Ethanol,//Products//Household Products//Toilet article & cosmetic: Perfume and Cologne,,07,Household Products,38,Toilet article & cosmetic: Perfume and Cologne,0003,Ethanol,1,0,4
+10918,Non/anionic detergent,//Products//Household Products//Cleaning agent for kitchen,,07,Household Products,39,Cleaning agent for kitchen,0002,Non/anionic detergent,1,0,4
+10919,Corrosive alkali,//Products//Household Products//Cleaning agent for kitchen,,07,Household Products,39,Cleaning agent for kitchen,0003,Corrosive alkali,1,0,4
+11122,Other,//Products//Household Products//Cleaning agent for kitchen,,07,Household Products,39,Cleaning agent for kitchen,3020,Non/anionic detergent,1,0,4
+10920,Dry cell,//Products//Household Products//Battery,,07,Household Products,40,Battery,0002,Dry cell,1,0,4
+10921,Button battery,//Products//Household Products//Battery,,07,Household Products,40,Battery,0003,Button battery,1,0,4
+10922,Essential oil,//Products//Household Products//Aromatherapy,,07,Household Products,41,Aromatherapy,0002,Essential oil,1,0,4
+10923,Perfume and Fragrance,//Products//Household Products//Aromatherapy,,07,Household Products,41,Aromatherapy,0003,Perfume and Fragrance,1,0,4
+10924,Salicylates,//Products//Household Products//Aromatherapy,,07,Household Products,41,Aromatherapy,0004,Salicylates,1,0,4
+10925,Hot pack content,//Products//Household Products//Hot pack content,,07,Household Products,42,Hot pack content,0002,Hot pack content,1,0,4
+10926,Organophosphate,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0101,Organophosphate,1,0,4
+10927,Carbamate,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0201,Carbamate,1,0,4
+10928,Pyrethroid,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0301,Pyrethroid,1,0,4
+10929,Combined,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0401,Combined,1,0,4
+10930,Organochlorine,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0501,Organochlorine,1,0,4
+10931,Avermectin,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0601,Avermectin,1,0,4
+10932,Unknown,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0701,Unknown,1,0,4
+10933,Repellent,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0801,Repellent,1,0,4
+10934,OP/CB (Dx by clinical manifestation),//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,0901,OP/CB (Dx by clinical manifestation),1,0,4
+10935,OP (Dx by clinical manifestation),//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,1001,OP (Dx by clinical manifestation),1,0,4
+10936,CB (Dx by clinical manifestation),//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,1101,CB (Dx by clinical manifestation),1,0,4
+10937,Other,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,1201,Other,1,0,4
+10938,Synergist,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,1202,Synergist,1,0,4
+11093,Carbamate + Pyrethroid,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,1204,Carbamate + Pyrethroid,1,0,4
+11095,Organophosphate + Pyrethroid,//Products//Pesticides//Insecticide,,08,Pesticides,01,Insecticide,1205,Organophosphate + Pyrethroid,1,0,4
+10939,Arsenic,//Products//Pesticides//Miticide,,08,Pesticides,02,Miticide,0101,Arsenic,1,0,4
+10940,Pyrethroid,//Products//Pesticides//Miticide,,08,Pesticides,02,Miticide,0201,Pyrethroid,1,0,4
+10941,Organochlorine,//Products//Pesticides//Miticide,,08,Pesticides,02,Miticide,0301,Organochlorine,1,0,4
+10942,Combined,//Products//Pesticides//Miticide,,08,Pesticides,02,Miticide,0401,Combined,1,0,4
+10943,Unknown,//Products//Pesticides//Miticide,,08,Pesticides,02,Miticide,0501,Unknown,1,0,4
+10944,Organophosphate,//Products//Pesticides//Miticide,,08,Pesticides,02,Miticide,0601,Organophosphate,1,0,4
+10945,Carbamate,//Products//Pesticides//Miticide,,08,Pesticides,02,Miticide,0701,Carbamate,1,0,4
+10946,Other,//Products//Pesticides//Miticide,,08,Pesticides,02,Miticide,0702,Other,1,0,4
+10947,Organochlorine,//Products//Pesticides//Mollussicide,,08,Pesticides,03,Mollussicide,0101,Organochlorine,1,0,4
+10948,Metaldehyde,//Products//Pesticides//Mollussicide,,08,Pesticides,03,Mollussicide,0201,Metaldehyde,1,0,4
+10949,Unknown,//Products//Pesticides//Mollussicide,,08,Pesticides,03,Mollussicide,0301,Unknown,1,0,4
+10950,Niclosamide,//Products//Pesticides//Mollussicide,,08,Pesticides,03,Mollussicide,0401,Niclosamide,1,0,4
+10951,Organophosphate,//Products//Pesticides//Mollussicide,,08,Pesticides,03,Mollussicide,0402,Organophosphate,1,0,4
+10952,Other,//Products//Pesticides//Mollussicide,,08,Pesticides,03,Mollussicide,0403,Other,1,0,4
+10953,Biochemical,//Products//Pesticides//Mollussicide,,08,Pesticides,03,Mollussicide,0404,Biochemical,1,0,4
+11102,abamectin,//Products//Pesticides//Mollussicide,,08,Pesticides,03,Mollussicide,0405,abamectin,1,0,4
+10954,Antibiotic,//Products//Pesticides//Fungicide,,08,Pesticides,04,Fungicide,0101,Antibiotic,1,0,4
+10955,Inorganic,//Products//Pesticides//Fungicide,,08,Pesticides,04,Fungicide,0201,Inorganic,1,0,4
+10956,Dithiocarbamate,//Products//Pesticides//Fungicide,,08,Pesticides,04,Fungicide,0301,Dithiocarbamate,1,0,4
+10957,Phthalimide,//Products//Pesticides//Fungicide,,08,Pesticides,04,Fungicide,0401,Phthalimide,1,0,4
+10958,Organophosphate,//Products//Pesticides//Fungicide,,08,Pesticides,04,Fungicide,0501,Organophosphate,1,0,4
+10959,Others,//Products//Pesticides//Fungicide,,08,Pesticides,04,Fungicide,0601,Others,1,0,4
+10960,Unknown,//Products//Pesticides//Fungicide,,08,Pesticides,04,Fungicide,0701,Unknown,1,0,4
+10961,Amidine,//Products//Pesticides//Fungicide,,08,Pesticides,04,Fungicide,0702,Amidine,1,0,4
+10962,Bipyridyl,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0101,Bipyridyl,1,0,4
+10963,Glycine,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0201,Glycine,1,0,4
+10964,Chlorophenoxy,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0301,Chlorophenoxy,1,0,4
+10965,Chloroacetanilide,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0401,Chloroacetanilide,1,0,4
+10966,Anilide,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0501,Anilide,1,0,4
+10967,"Others (Fenoxaprop,etc)",//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0601,"Others (Fenoxaprop,etc)",1,0,4
+10968,Combines( เช่น Anilide + Chlorophenoxy),//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0701,Combines( เช่น Anilide + Chlorophenoxy),1,0,4
+10969,Unknown,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0801,Unknown,1,0,4
+10970,Phosphinic acid,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0802,Phosphinic acid,1,0,4
+10971,other (sulfonylurea),//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0803,other (sulfonylurea),1,0,4
+10972,Triazine,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0804,Triazine,1,0,4
+10973,Surfactant/Detergent,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0805,Surfactant/Detergent,1,0,4
+11112,Organic produtcs,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,3008,Organic produtcs,1,0,4
+11086,Anilide + chloroacetanilide,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0806,Anilide + chloroacetanilide,1,0,4
+11087,Anilide + other,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0807,Anilide + other,1,0,4
+11088,Anilide + Chlorophenoxy compound,//Products//Pesticides//Herbicide,,08,Pesticides,05,Herbicide,0808,Anilide + Chlorophenoxy compound,1,0,4
+10974,Hormone,//Products//Pesticides//Plant Growth Regulator,,08,Pesticides,06,Plant Growth Regulator,0101,Hormone,1,0,4
+10975,Vitamin and Mineral,//Products//Pesticides//Plant Growth Regulator,,08,Pesticides,06,Plant Growth Regulator,0201,Vitamin and Mineral,1,0,4
+10976,Fertilizer,//Products//Pesticides//Plant Growth Regulator,,08,Pesticides,06,Plant Growth Regulator,0301,Fertilizer,1,0,4
+10977,Ethylene generator,//Products//Pesticides//Plant Growth Regulator,,08,Pesticides,06,Plant Growth Regulator,0401,Ethylene generator,1,0,4
+10978,Unknown,//Products//Pesticides//Plant Growth Regulator,,08,Pesticides,06,Plant Growth Regulator,0501,Unknown,1,0,4
+10979,Other,//Products//Pesticides//Plant Growth Regulator,,08,Pesticides,06,Plant Growth Regulator,0502,Other,1,0,4
+10980,Synergist,//Products//Pesticides//Synergist,,08,Pesticides,07,Synergist,0101,Synergist,1,0,4
+10981,Unknown,//Products//Pesticides//Synergist,,08,Pesticides,07,Synergist,0201,Unknown,1,0,4
+10982,Non/anionic detergent,//Products//Pesticides//Synergist,,08,Pesticides,07,Synergist,0202,Non/anionic detergent,1,0,4
+10983,Warfarin,//Products//Pesticides//Rodenticide,,08,Pesticides,08,Rodenticide,0101,Warfarin,1,0,4
+10984,Long-acting anticoagulant,//Products//Pesticides//Rodenticide,,08,Pesticides,08,Rodenticide,0201,Long-acting anticoagulant,1,0,4
+10985,Unknown Anticoagulants,//Products//Pesticides//Rodenticide,,08,Pesticides,08,Rodenticide,0301,Unknown Anticoagulants,1,0,4
+10986,Inorganic: Zn,//Products//Pesticides//Rodenticide,,08,Pesticides,08,Rodenticide,0401,Inorganic: Zn,1,0,4
+10987,Others,//Products//Pesticides//Rodenticide,,08,Pesticides,08,Rodenticide,0501,Others,1,0,4
+10988,Unknown,//Products//Pesticides//Rodenticide,,08,Pesticides,08,Rodenticide,0601,Unknown,1,0,4
+11111,Carbamate,//Products//Pesticides//Rodenticide,,08,Pesticides,08,Rodenticide,3007,Warfarin,1,0,4
+10989,Nematicide,//Products//Pesticides//Nematicide,,08,Pesticides,09,Nematicide,0101,Nematicide,1,0,4
+10990,Unknown,//Products//Pesticides//Nematicide,,08,Pesticides,09,Nematicide,0201,Unknown,1,0,4
+10991,Pyrethroid,//Products//Pesticides//Nematicide,,08,Pesticides,09,Nematicide,0202,Pyrethroid,1,0,4
+10992,Strychnine,//Products//Pesticides//Poison Dogs,,08,Pesticides,10,Poison Dogs,0101,Strychnine,1,0,4
+10993,Unknown,//Products//Pesticides//Poison Dogs,,08,Pesticides,10,Poison Dogs,0201,Unknown,1,0,4
+10994,Other,//Products//Pesticides//Poison Dogs,,08,Pesticides,10,Poison Dogs,0202,Other,1,0,4
+10995,Carbamate,//Products//Pesticides//Poison Dogs,,08,Pesticides,10,Poison Dogs,0203,Carbamate,1,0,4
+10996,Carbamate (Diag by clinical),//Products//Pesticides//Poison Birds,,08,Pesticides,11,Poison Birds,0101,Carbamate (Diag by clinical),1,0,4
+10997,Unknown,//Products//Pesticides//Poison Birds,,08,Pesticides,11,Poison Birds,0201,Unknown,1,0,4
+10998,Aluminium phosphide,//Products//Pesticides//Fumigants,,08,Pesticides,12,Fumigants,0101,Aluminium phosphide,1,0,4
+10999,Methyl bromide,//Products//Pesticides//Fumigants,,08,Pesticides,12,Fumigants,0201,Methyl bromide,1,0,4
+11000,Others,//Products//Pesticides//Fumigants,,08,Pesticides,12,Fumigants,0301,Others,1,0,4
+11001,Unknown,//Products//Pesticides//Fumigants,,08,Pesticides,12,Fumigants,0401,Unknown,1,0,4
+11094,Phosphide,//Products//Pesticides//Fumigants,,08,Pesticides,12,Fumigants,0501,Phosphide,1,0,4
+11002,Unknown,//Products//Pesticides//Unknown,,08,Pesticides,13,Unknown,0101,Unknown,1,0,4
+11003,Others,//Products//Pesticides//Others,,08,Pesticides,14,Others,0101,Others,1,0,4
+11004,Antibiotics,//Products//Pesticides//Others,,08,Pesticides,14,Others,0102,Antibiotics,1,0,4
+11005,Sulfite,//Products//Pesticides//Acaricide,,08,Pesticides,15,Acaricide,0002,Sulfite,1,0,4
+11006,Bridged diphenyl : Organochlorine,//Products//Pesticides//Acaricide,,08,Pesticides,15,Acaricide,0003,Bridged diphenyl : Organochlorine,1,0,4
+11007,Other,//Products//Pesticides//Acaricide,,08,Pesticides,15,Acaricide,0004,Other,1,0,4
+11008,Unknown,//Products//Pesticides//Acaricide,,08,Pesticides,15,Acaricide,0005,Unknown,1,0,4
+11009,Amidine,//Products//Pesticides//Acaricide,,08,Pesticides,15,Acaricide,0006,Amidine,1,0,4
+11010,Carbamate,//Products//Pesticides//Acaricide,,08,Pesticides,15,Acaricide,0007,Carbamate,1,0,4
+11011,Dye,//Products//Pesticides//Algicide,,08,Pesticides,16,Algicide,0002,Dye,1,0,4
+11012,Zinc,//Products//Pesticides//Algicide,,08,Pesticides,16,Algicide,0003,Zinc,1,0,4
+11109,Unknown,//Products//Pesticides//Algicide,,08,Pesticides,16,Algicide,3005,Unknown,1,0,4
+11013,Cyanide,//Products//Pesticides//Poison fish,,08,Pesticides,17,Poison fish,0002,Cyanide,1,0,4
+11014,Unknown,//Products//Pesticides//Poison fish,,08,Pesticides,17,Poison fish,0003,Unknown,1,0,4
+11015,Infectious Diseases,//Products//Disease / Signs-Symptoms / Health//Diseases,,09,Disease / Signs-Symptoms / Health,01,Diseases,0101,Infectious Diseases,1,0,4
+11016,Metabolic Diseases,//Products//Disease / Signs-Symptoms / Health//Diseases,,09,Disease / Signs-Symptoms / Health,01,Diseases,0201,Metabolic Diseases,1,0,4
+11017,Cancer,//Products//Disease / Signs-Symptoms / Health//Diseases,,09,Disease / Signs-Symptoms / Health,01,Diseases,0301,Cancer,1,0,4
+11018,Others,//Products//Disease / Signs-Symptoms / Health//Diseases,,09,Disease / Signs-Symptoms / Health,01,Diseases,0401,Others,1,0,4
+11019,Unknowns,//Products//Disease / Signs-Symptoms / Health//Diseases,,09,Disease / Signs-Symptoms / Health,01,Diseases,0501,Unknowns,1,0,4
+11020,Health,//Products//Disease / Signs-Symptoms / Health//Health,,09,Disease / Signs-Symptoms / Health,02,Health,0101,Health,1,0,4
+11021,Exercise,//Products//Disease / Signs-Symptoms / Health//Health,,09,Disease / Signs-Symptoms / Health,02,Health,0201,Exercise,1,0,4
+11022,Others,//Products//Disease / Signs-Symptoms / Health//Health,,09,Disease / Signs-Symptoms / Health,02,Health,0301,Others,1,0,4
+11023,Toxscreen,//Products//Lab Monitoring//Toxicology,,10,Lab Monitoring,01,Toxicology,0101,Toxscreen,1,0,4
+11024,Amphetamine and abused agents,//Products//Lab Monitoring//Toxicology,,10,Lab Monitoring,01,Toxicology,0201,Amphetamine and abused agents,1,0,4
+11025,Alcohols,//Products//Lab Monitoring//Toxicology,,10,Lab Monitoring,01,Toxicology,0301,Alcohols,1,0,4
+11026,Therapeutic drugs monitoring,//Products//Lab Monitoring//Toxicology,,10,Lab Monitoring,01,Toxicology,0401,Therapeutic drugs monitoring,1,0,4
+11027,Others,//Products//Lab Monitoring//Toxicology,,10,Lab Monitoring,01,Toxicology,0501,Others,1,0,4
+11028,Organic Solvents,//Products//Database / Service//Database/Services,,11,Database / Service,01,Database/Services,0101,Organic Solvents,1,0,4
+11029,Heavy Metals,//Products//Database / Service//Database/Services,,11,Database / Service,01,Database/Services,0201,Heavy Metals,1,0,4
+11030,Other Occupational Substances,//Products//Database / Service//Database/Services,,11,Database / Service,01,Database/Services,0301,Other Occupational Substances,1,0,4
+11031,Medicines,//Products//Database / Service//Database/Services,,11,Database / Service,01,Database/Services,0401,Medicines,1,0,4
+11032,Pesticides,//Products//Database / Service//Database/Services,,11,Database / Service,01,Database/Services,0501,Pesticides,1,0,4
+11033,Household Products,//Products//Database / Service//Database/Services,,11,Database / Service,01,Database/Services,0601,Household Products,1,0,4
+11034,Others,//Products//Database / Service//Database/Services,,11,Database / Service,01,Database/Services,0701,Others,1,0,4
+11035,Unknown,//Products//Database / Service//Database/Services,,11,Database / Service,01,Database/Services,0801,Unknown,1,0,4
+11036,Vitamins,//Products//Health Food / Cosmetics//Heatlh Food,,12,Health Food / Cosmetics,01,Heatlh Food,0101,Vitamins,1,0,4
+11037,Mineral,//Products//Health Food / Cosmetics//Heatlh Food,,12,Health Food / Cosmetics,01,Heatlh Food,0201,Mineral,1,0,4
+11038,Collagen,//Products//Health Food / Cosmetics//Heatlh Food,,12,Health Food / Cosmetics,01,Heatlh Food,0202,Collagen,1,0,4
+11039,Fruit Extracts,//Products//Health Food / Cosmetics//Heatlh Food,,12,Health Food / Cosmetics,01,Heatlh Food,0203,Fruit Extracts,1,0,4
+11040,Amino  acid,//Products//Health Food / Cosmetics//Heatlh Food,,12,Health Food / Cosmetics,01,Heatlh Food,0204,Amino  acid,1,0,4
+11041,Antioxidants,//Products//Health Food / Cosmetics//Heatlh Food,,12,Health Food / Cosmetics,01,Heatlh Food,0205,Antioxidants,1,0,4
+11042,Others,//Products//Health Food / Cosmetics//Heatlh Food,,12,Health Food / Cosmetics,01,Heatlh Food,0206,Others,1,0,4
+11043,Other,//Products//Health Food / Cosmetics//Cosmetics,,12,Health Food / Cosmetics,02,Cosmetics,0101,Other,1,0,4
+11044,Hormone,//Products//Health Food / Cosmetics//Cosmetics,,12,Health Food / Cosmetics,02,Cosmetics,0102,Hormone,1,0,4
+11045,Other,//Products//Health Food / Cosmetics//Other,,12,Health Food / Cosmetics,03,Other,0002,Other,1,0,4
+11046,Fire hazard,//Products//Fire Hazard//Fire Hazard,,13,Fire Hazard,01,Fire Hazard,0101,Fire hazard,1,0,4
+11047,Monosodium glutamate (MSG),//Products//Food Additives and Preservatives//Food Additives,,14,Food Additives and Preservatives,01,Food Additives,0101,Monosodium glutamate (MSG),1,0,4
+11048,Others,//Products//Food Additives and Preservatives//Food Additives,,14,Food Additives and Preservatives,01,Food Additives,0102,Others,1,0,4
+11049,Borax,//Products//Food Additives and Preservatives//Food Additives,,14,Food Additives and Preservatives,01,Food Additives,0103,Borax,1,0,4
+11050,Unknown,//Products//Food Additives and Preservatives//Food Additives,,14,Food Additives and Preservatives,01,Food Additives,0104,Unknown,1,0,4
+11051,Nitrates and Nitrites,//Products//Food Additives and Preservatives//Food Additives,,14,Food Additives and Preservatives,01,Food Additives,0105,Nitrates and Nitrites,1,0,4
+11052,Nitrates,//Products//Food Additives and Preservatives//Food Preservatives,,14,Food Additives and Preservatives,02,Food Preservatives,0002,Nitrates,1,0,4
+11053,Others,//Products//Food Additives and Preservatives//Food Preservatives,,14,Food Additives and Preservatives,02,Food Preservatives,0003,Others,1,0,4
+11054,Unknown,//Products//Food Additives and Preservatives//Food Preservatives,,14,Food Additives and Preservatives,02,Food Preservatives,0004,Unknown,1,0,4
+11055,Herbs,//Products//Herbal and Traditional Medicine//Herbal Medicine,,15,Herbal and Traditional Medicine,01,Herbal Medicine,0101,Herbs,1,0,4
+11056,Herb extraction,//Products//Herbal and Traditional Medicine//Herbal Medicine,,15,Herbal and Traditional Medicine,01,Herbal Medicine,0102,Herb extraction,1,0,4
+11057,Herb extraction with Ethanol,//Products//Herbal and Traditional Medicine//Herbal Medicine,,15,Herbal and Traditional Medicine,01,Herbal Medicine,0103,Herb extraction with Ethanol,1,0,4
+11058,Unknown,//Products//Herbal and Traditional Medicine//Herbal Medicine,,15,Herbal and Traditional Medicine,01,Herbal Medicine,0104,Unknown,1,0,4
+11059,Methylsalicylate,//Products//Herbal and Traditional Medicine//Herbal Medicine,,15,Herbal and Traditional Medicine,01,Herbal Medicine,0105,Methylsalicylate,1,0,4
+11060,Others,//Products//Herbal and Traditional Medicine//Herbal Medicine,,15,Herbal and Traditional Medicine,01,Herbal Medicine,0106,Others,1,0,4
+11061,Methylene blue,//Products//Herbal and Traditional Medicine//Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,0101,Methylene blue,1,0,4
+11062,Nitrates,//Products//Herbal and Traditional Medicine//Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,0201,Nitrates,1,0,4
+11063,Inorganic e.g. Copper sulfate,//Products//Herbal and Traditional Medicine//Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,0301,Inorganic e.g. Copper sulfate,1,0,4
+11064,Heavy metals,//Products//Herbal and Traditional Medicine//Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,0401,Heavy metals,1,0,4
+11065,"Essentail oils e.g. Camphor, Menthol, Eucalyptus",//Products//Herbal and Traditional Medicine//Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,0402,"Essentail oils e.g. Camphor, Menthol, Eucalyptus",1,0,4
+11066,Others,//Products//Herbal and Traditional Medicine//Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,0403,Others,1,0,4
+11067,Plant extraction,//Products//Herbal and Traditional Medicine//Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,0404,Plant extraction,1,0,4
+11068,Salicylates,//Products//Herbal and Traditional Medicine//Traditional Medicine,,15,Herbal and Traditional Medicine,02,Traditional Medicine,0405,Salicylates,1,0,4
+11069,Mustard Gas,//Products//Chemical Weapons//Chemical Weapon,,16,Chemical Weapons,01,Chemical Weapon,0101,Mustard Gas,1,0,4
+11070,Cyanide,//Products//Chemical Weapons//Chemical Weapon,,16,Chemical Weapons,01,Chemical Weapon,0201,Cyanide,1,0,4
+11071,Tear gas,//Products//Chemical Weapons//Chemical Weapon,,16,Chemical Weapons,01,Chemical Weapon,0202,Tear gas,1,0,4
+11072,Heavy Metals,//Products//Chemical Weapons//Chemical Weapon,,16,Chemical Weapons,01,Chemical Weapon,0203,Heavy Metals,1,0,4
+11073,Oxidizing agents,//Products//Chemical Weapons//Chemical Weapon,,16,Chemical Weapons,01,Chemical Weapon,0204,Oxidizing agents,1,0,4
+11113,Other,//Products//Chemical Weapons//Chemical Weapon,,16,Chemical Weapons,01,Chemical Weapon,3009,Other,1,0,4
+11105,OC spray/Oleoresin Capsicum/OC gas/Pepper spray,//Products//Chemical Weapons//Chemical Weapon,,16,Chemical Weapons,01,Chemical Weapon,0301,OC spray/Oleoresin Capsicum/OC gas/Pepper spray,1,0,4
+11074,Methemoglobinemia,//Products//Methemoglobinemia//Methemoglobinemia,,17,Methemoglobinemia,01,Methemoglobinemia,0101,Methemoglobinemia,1,0,4
+11075,Unknown Toxic Substance,//Products//Unknown Toxic Substance//Unknown Toxic Substance,,18,Unknown Toxic Substance,01,Unknown Toxic Substance,0101,Unknown Toxic Substance,1,0,4
+11076,Nonpoisonous animal,//Products//Other Category//Others,,19,Other Category,01,Others,0101,Nonpoisonous animal,1,0,4
+11077,Others Substances,//Products//Other Category//Others,,19,Other Category,01,Others,0201,Others Substances,1,0,4
+11078,Nonvenomous snake,//Products//Other Category//Others,,19,Other Category,01,Others,0202,Nonvenomous snake,1,0,4
+11079,Nonpoisonous plants/mushrooms,//Products//Other Category//Others,,19,Other Category,01,Others,0203,Nonpoisonous plants/mushrooms,1,0,4
+11114,Other,//Products//Medical Drugs//Other Category//Anti-inflammatory Enzymes,,01,Medical Drugs,04,Neuro-Muscular System,3010,Anti-inflammatory Enzymes,0,0,5
+11121,Antidepressant: SNRI,//Products//Medical Drugs//Other Category//Antidepressants: SSRI,,01,Medical Drugs,04,Neuro-Muscular System,3016,Antidepressants: SSRI,0,0,5
+11081,Oral Antidiabetic Agents: Dipeptidyl peptidase inhibitor,//Products//Medical Drugs//Metabolism//Insulins,,01,Medical Drugs,10,Metabolism,0801,Oral Antidiabetic Agents: Dipeptidyl peptidase inhibitor,1,0,5
+11090,Cyanide,//Products//Food Toxins and Contaminations//Aquatic envenomation: Echinoderms//Shellfish,,06,Food Toxins and Contaminations,02,Food poisoning,0303,Shellfish,0,0,5
+11117,Acid Formulation,//Products//Household Products//Unplug drain//Alkali formulation,,07,Household Products,31,Unplug drain,3012,Alkali formulation,1,0,5
+11092,Carbamate + Pyrethroid,//Products//Nonpoisonous plants/mushrooms,,08,Pesticides,01,Insecticide,1203,Organophosphate,0,0,3
+11100,Silicone,//Products//Technical and Occupational Products//Carbamate + Pyrethroid,,02,Technical and Occupational Products,38,Cleaning agent for leather,0101,Silicone,1,0,4
+11107,Slow Loris (ลิงลม/นางอาย),//Products//Poisonous and Venomous Animals//Silicone,,05,Poisonous and Venomous Animals,22,Venomous primate,0101,Slow Loris (ลิงลม/นางอาย),1,0,4

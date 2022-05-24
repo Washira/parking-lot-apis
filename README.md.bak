@@ -1,0 +1,13 @@
+### Deployment
+1. ssh to server.
+2. `cd apps/build`
+3. `git clone http://192.168.102.101/cream/custom-api/rama-backend.git custom-rama-backend`
+4. Change IP: `vi .env.production`
+5. `sudo docker build -t local:custom-rama-backend -f dockerfile .`
+6. `sudo docker container run -d -it --name custom-rama-backend -p 4018:4018 -v /home/user01/apps/logs:/app/logs --restart always local:custom-rama-backend`
+
+### Delopment Commands
+`EXECUTE_TODAY_STATS_SCHEDULE=true yarn dev`
+
+#### NOTE
+This module uses same port as custom-exat-backend because we use 1 module for the correct customer.

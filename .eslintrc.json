@@ -1,0 +1,31 @@
+{
+  "env": {
+    "node": true,
+    "es2020": true
+  },
+  "extends": [
+    "airbnb-base"
+  ],
+  "rules": {
+    "arrow-body-style": "off",
+    "camelcase": "off",
+    "consistent-return": "off",
+    "func-names": "off",
+    "no-console": "off",
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+    "no-param-reassign": "off",
+    "no-underscore-dangle": "off",
+    "no-unused-vars": [
+      "error",
+      {
+        "vars": "all",
+        "args": "none",
+        "ignoreRestSiblings": true,
+        "varsIgnorePattern": "(\\w*[l|L]og\\w*)"
+      }
+    ],
+    "padded-blocks": "off",
+    "prefer-arrow-callback": "off",
+    "prefer-const": "warn"
+  }
+}
