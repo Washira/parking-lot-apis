@@ -1,6 +1,6 @@
-# Custom Rama API
+# Custom TCELS API
 
-The custom rama module of Cream that lets you manage non-standard resources for RAMA via the RESTful API.
+The custom tcels module of Cream that lets you manage non-standard resources for TCELS via the RESTful API.
 
 ## Features
 
@@ -27,13 +27,13 @@ The custom rama module of Cream that lets you manage non-standard resources for 
 Clone the project to your machine.
 
 ```
-git clone http://192.168.102.101/cream/custom-api/rama-backend custom-rama-backend
+git clone http://192.168.102.101/cream/custom-api/tcels-backend custom-tcels-backend
 ```
 
 Change the working directory.
 
 ```
-cd custom-rama-backend
+cd custom-tcels-backend
 ```
 
 Install the project dependencies.
