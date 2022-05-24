@@ -87,7 +87,7 @@ cd Cream_Deployment
 Clone the project to the server (New Deployment).
 
 ```
-git clone http://192.168.102.101/cream/custom-api/rama-backend custom-rama-backend
+git clone http://192.168.102.101/cream/custom-api/tcels-backend custom-tcels-backend
 ```
 
 Pull the latest project changes (Update Deployment).
@@ -98,22 +98,22 @@ git pull
 
 Build the docker image.
 ```
-sudo docker build -t local:custom-rama-backend -f dockerfile .
+sudo docker build -t local:custom-tcels-backend -f dockerfile .
 ```
 
 Stop the container if running.
 ```
-sudo docker container stop custom-rama-backend
+sudo docker container stop custom-tcels-backend
 ```
 
 Remove the container image.
 ```
-sudo docker container rm custom-rama-backend
+sudo docker container rm custom-tcels-backend
 ```
 
 Run a container using new image.
 ```
-sudo docker container run -d -it --name custom-rama-backend -p 4018:4018 -v /home/user01/apps/logs:/app/logs --restart always --network host local:custom-rama-backend
+sudo docker container run -d -it --name custom-tcels-backend -p 4018:4018 -v /home/user01/apps/logs:/app/logs --restart always --network host local:custom-tcels-backend
 ```
 
 Check container is running?
@@ -123,7 +123,7 @@ sudo docker container ls
 
 Monitor the container logs.
 ```
-sudo docker container logs -f --tail 100 custom-rama-backend
+sudo docker container logs -f --tail 100 custom-tcels-backend
 ```
 
 ## Improvement
