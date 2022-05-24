@@ -23,19 +23,19 @@ CMD [ \
 ]
 
 # [ miracle ]
-# git pull && sudo docker container stop custom-rama-backend && sudo docker container rm custom-rama-backend && sudo docker build -t local:custom-rama-backend -f dockerfile . && sudo docker container run -d -it --name custom-rama-backend -p 4018:4018 -v /home/user01/apps/logs:/app/logs --restart always local:custom-rama-backend
+# git pull && sudo docker container stop custom-tcels-backend && sudo docker container rm custom-tcels-backend && sudo docker build -t local:custom-tcels-backend -f dockerfile . && sudo docker container run -d -it --name custom-tcels-backend -p 4018:4018 -v /home/user01/apps/logs:/app/logs --restart always local:custom-tcels-backend
 
 # [ deployment ]
-# sudo docker build -t local:custom-rama-backend -f dockerfile .
-# sudo docker container run -d -it --name custom-rama-backend -p 4018:4018 -v /home/user01/apps/logs:/app/logs --restart always local:custom-rama-backend
+# sudo docker build -t local:custom-tcels-backend -f dockerfile .
+# sudo docker container run -d -it --name custom-tcels-backend -p 4018:4018 -v /home/user01/apps/logs:/app/logs --restart always local:custom-tcels-backend
 
 # [ monitoring ]
 # sudo docker container ls
-# sudo docker container logs -f custom-rama-backend
+# sudo docker container logs -f custom-tcels-backend
 
 # [ cleanup ]
-# sudo docker container stop custom-rama-backend
-# sudo docker container rm custom-rama-backend
+# sudo docker container stop custom-tcels-backend
+# sudo docker container rm custom-tcels-backend
 
 # [ shell ]
-# sudo docker container exec -i custom-rama-backend /bin/sh
+# sudo docker container exec -i custom-tcels-backend /bin/sh
