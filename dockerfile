@@ -1,6 +1,6 @@
 FROM node:12
 LABEL maintainer="Sompol"
-LABEL description="This dockerfile for install the custom-rama-backend."
+LABEL description="This dockerfile for install the custom-tcels-backend."
 
 WORKDIR /app
 COPY package.json ./
@@ -18,8 +18,8 @@ ENV TZ Asia/Bangkok
 CMD [ \
   "pm2-runtime", "bin/www", \
   "--restart-delay", "60000", \
-  "--output", "logs/custom-rama-backend-output.log", \
-  "--error", "logs/custom-rama-backend-error.log" \
+  "--output", "logs/custom-tcels-backend-output.log", \
+  "--error", "logs/custom-tcels-backend-error.log" \
 ]
 
 # [ miracle ]
