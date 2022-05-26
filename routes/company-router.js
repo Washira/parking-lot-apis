@@ -8,7 +8,7 @@ router.post('/custom-tcels/api/v1/company', companyController.postCompany);
 // GET localhost:3000/custom-tcels/api/v1/companies
 router.get('/custom-tcels/api/v1/companies', queryToMongoose, companyController.getCompanies);
 
-// GET localhost:3000/custom-tcels/api/v1/companies/5dfce4d99140310364fcc0d9
+// GET localhost:3000/custom-tcels/api/v1/company/5dfce4d99140310364fcc0d9
 router.get('/custom-tcels/api/v1/company/:companyId', companyController.getCompany);
 
 // PUT localhost:3000/custom-tcels/api/v1/company/5dfce4d99140310364fcc0d9

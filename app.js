@@ -56,17 +56,21 @@ app.use(passport.initialize());
 /**
  * Adds more express router here.
  */
-app.use(require('./routes/product-group-router'));
-app.use(require('./routes/ingredient-router'));
-app.use(require('./routes/product-ingredient-router'));
-app.use(require('./routes/product-router'));
-app.use(require('./routes/followup-router'));
-app.use(require('./routes/hospital-router'));
-app.use(require('./routes/formula-router'));
-app.use(require('./routes/custom-tm-config-router'));
-app.use(require('./routes/province-router'));
-app.use(require('./routes/script-router'));
+// app.use(require('./routes/product-group-router'));
+// app.use(require('./routes/ingredient-router'));
+// app.use(require('./routes/product-ingredient-router'));
+// app.use(require('./routes/product-router'));
+// app.use(require('./routes/followup-router'));
+// app.use(require('./routes/hospital-router'));
+// app.use(require('./routes/formula-router'));
+// app.use(require('./routes/custom-tm-config-router'));
+// app.use(require('./routes/province-router'));
+// app.use(require('./routes/script-router'));
 app.use(require('./routes/company-router'));
+app.use(require('./routes/position-router'));
+app.use(require('./routes/department-owner-router'));
+app.use(require('./routes/project-router'));
+app.use(require('./routes/project-status-router'));
 
 /**
  * Didn't match any server-side routers.

@@ -90,6 +90,12 @@ Clone the project to the server (New Deployment).
 git clone http://192.168.102.101/cream/custom-api/tcels-backend custom-tcels-backend
 ```
 
+Change the working directory.
+
+```
+cd custom-tcels-backend
+```
+
 Pull the latest project changes (Update Deployment).
 
 ```

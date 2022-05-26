@@ -50,16 +50,21 @@ process.on('SIGINT', () => {
 });
 
 // Adds more mongoose model here.
-require('../models/product-group-model')(mongoose);
-require('../models/ingredient-model')(mongoose);
-require('../models/product-ingredient-model')(mongoose);
-require('../models/custom-tm-config-model')(mongoose);
-require('../models/product-model')(mongoose);
-require('../models/followup-model')(mongoose);
-require('../models/hospital-model')(mongoose);
-require('../models/formula-model')(mongoose);
-require('../models/province-model')(mongoose);
+// require('../models/product-group-model')(mongoose);
+// require('../models/ingredient-model')(mongoose);
+// require('../models/product-ingredient-model')(mongoose);
+// require('../models/custom-tm-config-model')(mongoose);
+// require('../models/product-model')(mongoose);
+// require('../models/followup-model')(mongoose);
+// require('../models/hospital-model')(mongoose);
+// require('../models/formula-model')(mongoose);
+// require('../models/province-model')(mongoose);
 require('../models/company-model')(mongoose);
+require('../models/position-model')(mongoose);
+require('../models/department-owner-model')(mongoose);
+require('../models/project-model')(mongoose);
+require('../models/project-status-model')(mongoose);
+require('../models/interest-model')(mongoose);
 
 // The mongoose instance.
 module.exports = mongoose;
