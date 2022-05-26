@@ -71,6 +71,7 @@ app.use(require('./routes/position-router'));
 app.use(require('./routes/department-owner-router'));
 app.use(require('./routes/project-router'));
 app.use(require('./routes/project-status-router'));
+app.use(require('./routes/interest-router'));
 
 /**
  * Didn't match any server-side routers.
