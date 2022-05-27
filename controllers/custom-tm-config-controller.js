@@ -68,8 +68,10 @@ exports.getCustomTMConfig = async (req, res, next) => {
 exports.putCustomTMConfig = async (req, res, next) => {
   try {
     // Find and update CustomTMConfig document by CustomTMConfig ID.
-    const updatedCustomTMConfig = await CustomTMConfig.findByIdAndUpdate(req.params.customTMConfigId,
-      req.body, { runValidators: true, new: true });
+    const updatedCustomTMConfig = await CustomTMConfig.findByIdAndUpdate(
+      req.params.customTMConfigId,
+      req.body, { runValidators: true, new: true },
+    );
     // The resource could not be found?
     if (!updatedCustomTMConfig) throw new NotFound('The resource could not be found.');
     // Send the updated CustomTMConfig to the client.
@@ -84,7 +86,9 @@ exports.putCustomTMConfig = async (req, res, next) => {
 exports.deleteCustomTMConfig = async (req, res, next) => {
   try {
     // Find and delete CustomTMConfig document by CustomTMConfig ID.
-    const deletedCustomTMConfig = await CustomTMConfig.findByIdAndDelete(req.params.customTMConfigId);
+    const deletedCustomTMConfig = await CustomTMConfig.findByIdAndDelete(
+      req.params.customTMConfigId,
+    );
     // The resource could not be found?
     if (!deletedCustomTMConfig) throw new NotFound('The resource could not be found.');
     // Send 204 no content to the client.
@@ -163,8 +167,9 @@ exports.postImportCsv = async (req, res, next) => {
       // Insert into MongoDB if chunkDocs get full
       if (isFull === true || isLast === true) {
         /* >>>  InsertMany function does not trigger save middleware. <<<
-                ONLY use this when the import data is already perfect
+          ONLY use this when the import data is already perfect
         */
+        // eslint-disable-next-line no-await-in-loop
         await CustomTMConfig.insertMany(chunkDocs, options);
         chunkDocs = [];
       }

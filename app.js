@@ -63,7 +63,7 @@ app.use(passport.initialize());
 // app.use(require('./routes/followup-router'));
 // app.use(require('./routes/hospital-router'));
 // app.use(require('./routes/formula-router'));
-// app.use(require('./routes/custom-tm-config-router'));
+app.use(require('./routes/custom-tm-config-router'));
 // app.use(require('./routes/province-router'));
 // app.use(require('./routes/script-router'));
 app.use(require('./routes/company-router'));

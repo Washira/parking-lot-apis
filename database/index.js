@@ -53,7 +53,7 @@ process.on('SIGINT', () => {
 // require('../models/product-group-model')(mongoose);
 // require('../models/ingredient-model')(mongoose);
 // require('../models/product-ingredient-model')(mongoose);
-// require('../models/custom-tm-config-model')(mongoose);
+require('../models/custom-tm-config-model')(mongoose);
 // require('../models/product-model')(mongoose);
 // require('../models/followup-model')(mongoose);
 // require('../models/hospital-model')(mongoose);
