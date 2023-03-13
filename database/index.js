@@ -3,18 +3,19 @@
  * NOTE: Mongoose is singleton you can require everywhere.
  */
 const mongoose = require('mongoose');
-const uriBuilder = require('mongo-uri-builder');
+// const uriBuilder = require('mongo-uri-builder');
 const logger = require('../common/logger');
 
 // Create mongodb URI connection string.
-const uri = uriBuilder({
-  username: process.env.DB_USER,
-  password: process.env.DB_PASS,
-  host: process.env.DB_HOST,
-  port: process.env.DB_PORT,
-  database: process.env.DB_NAME,
-  replicas: [],
-});
+// const uri = uriBuilder({
+//   username: process.env.DB_USER,
+//   password: process.env.DB_PASS,
+//   host: process.env.DB_HOST,
+//   port: process.env.DB_PORT,
+//   database: process.env.DB_NAME,
+//   replicas: [],
+// });
+const uri = 'mongodb://mongo:27017/parking-lot-api';
 
 // Create a database connection.
 mongoose.connect(uri, {
@@ -50,21 +51,8 @@ process.on('SIGINT', () => {
 });
 
 // Adds more mongoose model here.
-// require('../models/product-group-model')(mongoose);
-// require('../models/ingredient-model')(mongoose);
-// require('../models/product-ingredient-model')(mongoose);
-require('../models/custom-tm-config-model')(mongoose);
-// require('../models/product-model')(mongoose);
-// require('../models/followup-model')(mongoose);
-// require('../models/hospital-model')(mongoose);
-// require('../models/formula-model')(mongoose);
-// require('../models/province-model')(mongoose);
-require('../models/company-model')(mongoose);
-require('../models/position-model')(mongoose);
-require('../models/department-owner-model')(mongoose);
-require('../models/project-model')(mongoose);
-require('../models/project-status-model')(mongoose);
-require('../models/interest-model')(mongoose);
+require('../models/parking-lot-model')(mongoose);
+require('../models/plate-number-model')(mongoose);
 
 // The mongoose instance.
 module.exports = mongoose;

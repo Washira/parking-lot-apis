@@ -3,7 +3,6 @@ const morgan = require('morgan');
 const compression = require('compression');
 const passport = require('passport');
 const errorHandler = require('./core/error-handler');
-const todayStatsSchedule = require('./modules/today-stats-schedule');
 
 /**
  * An express web application instance.
@@ -16,11 +15,6 @@ app.disable('x-powered-by');
  * Connect to the mongodb server using mongoose.
  */
 require('./database');
-
-/**
- * Initial some scheduled processes.
- */
-todayStatsSchedule.init();
 
 /**
  * Print morgan concise logs each http requests.
@@ -56,22 +50,9 @@ app.use(passport.initialize());
 /**
  * Adds more express router here.
  */
-// app.use(require('./routes/product-group-router'));
-// app.use(require('./routes/ingredient-router'));
-// app.use(require('./routes/product-ingredient-router'));
-// app.use(require('./routes/product-router'));
-// app.use(require('./routes/followup-router'));
-// app.use(require('./routes/hospital-router'));
-// app.use(require('./routes/formula-router'));
-app.use(require('./routes/custom-tm-config-router'));
-// app.use(require('./routes/province-router'));
-// app.use(require('./routes/script-router'));
-app.use(require('./routes/company-router'));
-app.use(require('./routes/position-router'));
-app.use(require('./routes/department-owner-router'));
-app.use(require('./routes/project-router'));
-app.use(require('./routes/project-status-router'));
-app.use(require('./routes/interest-router'));
+
+app.use(require('./routes/parking-lot-router'));
+app.use(require('./routes/plate-number-router'));
 
 /**
  * Didn't match any server-side routers.

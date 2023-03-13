@@ -5,7 +5,7 @@
 const uuid = require('uuid');
 const numeral = require('numeral');
 const Hashids = require('hashids/cjs');
-const logger = require('./logger');
+// const logger = require('./logger');
 
 /**
  * Create a hashids instance for encode & decode.

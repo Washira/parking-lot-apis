@@ -2,20 +2,26 @@
 module.exports = (mongoose) => {
 
   // Sets model & collection name here.
-  const modelName = 'DepartmentOwner';
-  const collectionName = 'department_owner';
+  const modelName = 'PlateNumber';
+  const collectionName = 'plateNumber';
 
   /**
    * Define model schema and validation here.
    * https://mongoosejs.com/docs/validation.html
    */
   const schema = new mongoose.Schema({
-    name: { type: String, required: true, default: '' },
-    isActive: { type: Boolean, default: true },
+    number: { type: Number, required: true, default: '' },
+    size: { type: String, required: true, default: '' },
+    is_parked: { type: Boolean, required: false, default: false },
+    parking_lot_id: { type: String, required: false, default: '' },
+    desc: { type: String, required: false, default: '' },
   }, {
     id: false,
     strict: true,
-    timestamps: false,
+    timestamps: {
+      createdAt: 'created_at',
+      updatedAt: 'updated_at',
+    },
   });
 
   // Define a model or retrieves it.
