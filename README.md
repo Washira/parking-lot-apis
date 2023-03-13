@@ -17,7 +17,7 @@ The custom `Parking Lot` modules that lets you manage resources via the RESTful 
 Clone the project to your machine.
 
 ```
-git clone <GIT_URL>
+git clone https://github.com/Washira/parking-lot-apis.git
 ```
 
 Change the working directory.
@@ -91,3 +91,5 @@ docker-compose up
 ```
 
 use -d flag to run in background.
+
+After run this command, you will see two images by `docker images` command.
